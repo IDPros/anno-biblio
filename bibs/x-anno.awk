@@ -9,7 +9,9 @@ split($0, parts ,"[{,]") # pull out the part between the brace and the comma
 cite=parts[2]
 n=split(FILENAME, parts, ".")
 contributor=parts[1]
-outfile="annos/" contributor "-" cite ".txt"# todo add contributor
+outfile="annos/" contributor "-" cite ".txt"
+csvfile="annos/" contributor ".csv"# place to put the citation map for this contributor
+print contributor "," cite > csvfile
 print outfile
 }
 /annotation/{

@@ -6,6 +6,11 @@ filename="${filename%.*}"  # strip off any extension
 # the .bib files are the source
 cd bibs # outputs files into annos folder below bibs
 awk -f x-anno.awk *.bib
+
+# regenerate the contrib-cites map
+head -n 1  ../contrib-cites.csv > annos/_.csv #grap the header
+cat annos/*.csv > ../contrib-cites.csv #put all into one file
+rm annos/*.csv #clean up
 cd ..
 
 # xelatex allows for modern fonts and unicode
