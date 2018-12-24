@@ -43,8 +43,6 @@ The `contrib-cites.csv`file contains two columns, it is the mapping between the 
 
 3. Tweak the formatting 
 
-4. Generate the contrib-cites map programatically.
+4. Copy edit the existing text
 
-5. Copy edit the existing text
-
-6. Get some better photos
+5. Get some better photos
