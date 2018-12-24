@@ -1,0 +1,112 @@
+% !TEX TS-program = XeLaTeX
+\documentclass[11pt, oneside,american]{article}   	
+\usepackage{geometry}                		% See geometry.pdf to learn the layout options. There are lots.
+\geometry{letterpaper}                   		% ... or a4paper or a5paper or ... 
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{wrapfig}
+
+%\usepackage[utf8]{inputenc}
+\usepackage[american]{babel}
+\usepackage[babel]{csquotes}
+\usepackage{etoolbox,keyval,ifthen,url}
+
+\usepackage{enumitem}
+
+\usepackage[style=authoryear]{biblatex}
+
+\addbibresource{bibs/gdobbs.bib}
+\addbibresource{bibs/akoot.bib}
+\addbibresource{bibs/cscholefield.bib}
+
+\usepackage{filecontents}
+
+\usepackage{hyperref}
+
+%\renewbibmacro*{begentry}{\medskip\newline}
+
+% the following prints the annotation after the bib entry
+\renewbibmacro{finentry}{%
+  \finentry% 
+  	{
+       \typeout{\thefield{entrykey}}
+       \DTLforeach*[\DTLiseq{\thefield{entrykey}}{\citation}]{contribcites}{\ckey=contribkey, \citation=citation}{
+            \smallskip\newline
+            \textsf { \input{bibs/annos/\ckey-\citation.txt}}
+            \par
+            % now attribute the contributor
+            \typeout{|\ckey|}
+            \edtlgetrowforvalue{contributors}{\dtlcolumnindex{contributors}{key}}{\ckey}%
+            \dtlgetentryfromcurrentrow{\last}{\dtlcolumnindex{contributors}{last}}%
+            \dtlgetentryfromcurrentrow{\first}{\dtlcolumnindex{contributors}{first}}%
+            \textsf{--~\first~\last}
+            \smallskip\newline
+            }              
+    }%
+}
+
+
+%SetFonts
+\usepackage{fontspec}
+\setmainfont{American Typewriter} % 
+\setsansfont[Scale=MatchLowercase]{Comic Sans MS} % 
+\setmonofont[Scale=MatchLowercase]{Monaco}
+ 
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+\setcounter{secnumdepth}{1}
+
+\usepackage{datatool}
+\DTLsetseparator{,}
+\DTLloaddb{contributors}{contributors.csv}
+\DTLloaddb{contribcites}{contrib-cites.csv}
+
+\setcounter{secnumdepth}{1}
+\setlist{nosep} %tighten up lists
+
+\begin{document}
+
+\begin{titlepage}
+	\centering
+	\includegraphics[width=0.45\textwidth]{media/idpro-logo.png}\par\vspace{1cm}
+	{\scshape\huge\bfseries  Identity Professionals Recommend \par}
+	\vspace{1cm}
+	{\scshape\LARGE An annotated bibliography\par}
+	\vspace{1.5cm}
+	{\large Updated and Issued from Time to Time\par}
+	\vspace{2cm}
+	{\Large\itshape\bfseries Contributions by the membership of IDPro\par}
+	\vfill
+	compiled by\par
+	\textsc{The Body of Knowledge Committee}
+	\vfill
+% Bottom of the page
+	{\large \today\par}
+\end{titlepage}
+
+
+\DTLforeach*{contributors}{\key=key,\first=first,\last=last,\area=location,\gtype=gtype}{
+    \subsection{\first~\last}
+    \begin{wrapfigure}{l}{0.25\textwidth}
+        \centering
+        \vspace{12pt}
+        \includegraphics[width=0.18\textwidth]{bios/\key.\gtype}
+    \end{wrapfigure}
+    \vspace{-22pt}
+    \textsf{\area} 
+    \vspace{12pt}
+    \par
+    \textsf{
+        \input{bios/\key.txt}
+     }
+    \subsubsection{Recommendations}
+    \begin{enumerate}   
+    \DTLforeach*[\DTLiseq{\key}{\contribkey}]{contribcites}{\contribkey=contribkey, \citation=citation}{
+        \item \cite{\citation}
+    }          
+    \end{enumerate}        
+}
+
+\printbibliography 
+\end{document}

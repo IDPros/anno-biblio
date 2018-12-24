@@ -1,0 +1,10 @@
+IAM and Security Consultant at Nixu Benelux, IAM Internal Practice Lead Nixu. 
+
+Sharing knowledge in the areas of
+\begin{itemize}
+\item Identity and Access Management
+\item Cloud security, yes cloud can be secured
+\item Information and enterprise architecture
+\item Cyberspace (since I am an RCX certified CyberXpert) and 
+\item Innovation
+\end{itemize}

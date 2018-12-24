@@ -1,0 +1,3 @@
+I work in the area of public-sector digital identity management, designing access management solutions that meet requirements for information security, ease of use, and privacy. 
+I am currently working on identity systems renewal projects for the University of Victoria, related to systems that provide accounts-provisioning, access certification, and identity life-cycle management functions.
+I am also working in the area of identity federation with higher-Ed colleagues connected to BCNet, CANARIE, and the Canadian Access Federation.
