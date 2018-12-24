@@ -25,7 +25,7 @@ As shown above the contributors file contains a unique key, the first and last n
 
 The second file will be explained after we look at the `.bib` files.  These are stored in the bibs folder. These are plain text files, but they can also be edited with specialty editors if desired.  Each file is contains one or more sections similar to:
 
-![bib-sample](/Users/george/Dropbox/IDPro/BoK/anno-biblio/media/bib-sample.png)
+![bib-sample](media/bib-sample.png)
 
 Each contributor provides citation data and the annotation for as many items as they like in a single file under their `key`.  So this one occurs in the file named `gdobbs.bib` in the `bibs` folder.
 
