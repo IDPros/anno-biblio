@@ -1,0 +1,3 @@
+A digital identity technologist currently working at a major financial institution as a CIAM product manager.
+In my current role I am responsible for providing a secure and intuitive authentication experience for our customers.
+Previous stints include an identity platform startup and a registry services provider.
