@@ -82,7 +82,9 @@
 % Bottom of the page
 	{\large \today\par}
 \end{titlepage}
-
+\section{Introduction}
+\input{intro.tex}
+\section{The Contributors}
 
 \DTLforeach*{contributors}{\key=key,\first=first,\last=last,\area=location,\gtype=gtype}{
     \subsection{\first~\last}

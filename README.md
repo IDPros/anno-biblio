@@ -13,8 +13,6 @@ All these elements are put together by running a shell script, `compile.sh`.
 
 The output of the system is a `.pdf` file.  The initial setup is hard coded using U.S. Letter size pages.
 
-A selection of fonts is intended to create a sense of light-heartedness and the materials are intended to be likewise fresh and friendly.
-
 ## Mechanism
 The control files are `contributors.csv` and `contrib-cites.csv`. 
 `
