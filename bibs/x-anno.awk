@@ -4,6 +4,10 @@
 /^@.*/ {
 
 # we have a line with @book, @online etc
+#
+# oddly enough, the following line prevents too many open files
+close(outfile)
+#now start the logic we expect when we have a new book
 split($0, parts ,"[{,]") # pull out the part between the brace and the comma
 #construct the output file name
 cite=parts[2]
