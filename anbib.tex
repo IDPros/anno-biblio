@@ -5,21 +5,20 @@
 \usepackage{graphicx}
 \usepackage{float}
 \usepackage{wrapfig}
-
-%\usepackage[utf8]{inputenc}
 \usepackage[american]{babel}
 \usepackage[babel]{csquotes}
 \usepackage{etoolbox,keyval,ifthen,url}
-
 \usepackage{enumitem}
-
 \usepackage[style=authortitle, maxbibnames=99]{biblatex}
+\usepackage{filecontents}
+\usepackage[all]{nowidow}
+\usepackage{titlesec}
+\newcommand{\sectionbreak}{\clearpage}
+\usepackage{hyperref}
+
 
 \input{bibs_index.tex}
 
-\usepackage{filecontents}
-
-\usepackage{hyperref}
 
 %\renewbibmacro*{begentry}{\medskip\newline}
 
@@ -51,14 +50,13 @@
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 
-\setcounter{secnumdepth}{1}
+\setcounter{secnumdepth}{-1}
 
 \usepackage{datatool}
 \DTLsetseparator{,}
 \DTLloaddb{contributors}{contributors.csv}
 \DTLloaddb{contribcites}{contrib-cites.csv}
 
-\setcounter{secnumdepth}{1}
 \setlist{nosep} %tighten up lists
 
 \begin{document}
