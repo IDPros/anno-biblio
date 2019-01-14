@@ -36,7 +36,10 @@ The output of the system is a `.pdf` file.  The initial setup is hard coded usin
 4. Create your biographic information and upload a picture.  These are in the bios folder.  The naming convention is key.txt for the bio and key.[jpg|png] for the photo.
 5. Finally, create a pull request. Go back to the root of your repository and click `New pull request`
    - Review your work, put in a comment and submit the request.
+<<<<<<< HEAD
 6. You are done. The maintainer, now needs to accept your pull requests and recompile to the document.
+=======
+>>>>>>> d4acaf6bfa43024251e9fa1e5f6ea1614b9bd53f
 
 ## Mechanism
 The control file is `contributors.csv`. It consists of 
