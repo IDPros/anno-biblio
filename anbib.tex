@@ -69,15 +69,13 @@
 
 \DTLforeach*{contributors}{\key=key,\first=first,\last=last,\area=location,\gtype=gtype}{
     \subsection{\first~\last}
+    \textsf{\area} \\
+    \setlength{\columnsep}{0pt}% trims the white space around the picture
     \begin{wrapfigure}{l}{0.25\textwidth}
         \centering
-        \vspace{12pt}
         \includegraphics[width=0.18\textwidth]{bios/\key.\gtype}
     \end{wrapfigure}
-    \vspace{-22pt}
-    \textsf{\area} 
-    \vspace{12pt}
-    \par
+  
     \textsf{
         \input{bios/\key.txt}
      }
@@ -86,7 +84,8 @@
     \DTLforeach*[\DTLiseq{\key}{\contribkey}]{contribcites}{\contribkey=contribkey, \citation=citation}{
         \item \cite{\citation}
     }          
-    \end{enumerate}        
+    \end{enumerate}  
+    \noindent\rule{\textwidth}{0.2pt}      
 }
 
 \printbibliography 
