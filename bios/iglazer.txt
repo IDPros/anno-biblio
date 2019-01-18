@@ -9,3 +9,4 @@ I am the founder and president of IDPro, the professional organization for digit
 During my decade-plus time in the identity industry I have co-authored a patent on federated user provisioning, co-authored the Service Provisioning Markup Language (SPML) Version 2 specification, contributed to the System for Cross Domain Identity Management (SCIM) Version 2 specification, and am a noted blogger, speaker, and photographer of my own socks.
 
 I graduated from the University of Pennsylvania cum laude with a Bachelors of Applied Science in Computer Science. I studied artificial intelligence at the University of Edinburgh. I currently reside in Washington DC.
+
