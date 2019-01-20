@@ -8,3 +8,5 @@
 *.run.xml
 bibs/annos/*
 *.old
+contrib-cites.csv
+bibs_index.tex

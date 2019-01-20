@@ -56,7 +56,10 @@ This allows for more than one contributor to annotate the same reference.
 
 The citation also has a key, its the first element after the entry type, in this case, Cameron2005. 
 
-The `contrib-cites.csv`file contains two columns, it is the mapping between the contributors and the citations.  It is generated from the `.bib` files by the `compile.sh` script.
+### Temporary files
+The `contrib-cites.csv`file is a temporary work file which contains two columns. It is the mapping between the contributors and the citations.  It is generated from the `.bib` files by the `compile.sh` script.
+
+The script also refreshes the temp file `bibs_index.tex` based on the contents of the `contributors.csv` file.  This file is then "included" in the main Latex file, `anbib.tex`.  Thus no changes are needed to the main file when a new contribution arrives.
 
 ## To do
 
