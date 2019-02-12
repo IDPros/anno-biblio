@@ -14,30 +14,27 @@ All these elements are put together by running a shell script, `compile.sh`.
 The output of the system is a `.pdf` file.  The initial setup is hard coded using U.S. Letter size pages.
 
 ## How to contribute
-1. Basic Plan
 
+To contribute most effectively, you'll need an account and some basic familiarity with GitHub.  The GitHub help page at https://help.github.com is a good place to get started.
+
+1. Basic Plan
   - Login to Github.com
   - You will create a "fork", which allows you to create and edit files.
   - When you are ready you will create a pull request to get your content incorporated in the base system.
 2. You will create a key which by convention is first initial, last name.  If needed add a tiebreaker.
-
-   - Look at `https://github.com/gbd-idpro/anno-biblio/blob/master/contributors.csv` to see if a tiebreaker is needed.
-   - While you are in this file, edit it to add an entry for yourself.
-   - This should force you to fork the repository.  At the top of the page you should see `youriD / anno-biblio`. All your work will be saved in your fork.
-3. Create you bibliography file
-
-   - An example with each type of entry can be seen `https://github.com/cronical/anno-biblio/blob/master/bibs/ssquire.bib`
-   - A template file can be found at 
+  - Look at `https://github.com/gbd-idpro/anno-biblio/blob/master/contributors.csv` to see if a tiebreaker is needed.
+  - While you are in this file, edit it to add an entry for yourself.
+  - This should force you to fork the repository.  At the top of the page you should see `youriD / anno-biblio`. All your work will be saved in your fork.
+3. Create your bibliography file
+  - An example with each type of entry can be seen `https://github.com/cronical/anno-biblio/blob/master/bibs/ssquire.bib`
+  - A template file can be found at 
      `https://github.com/cronical/anno-biblio/blob/master/bibs/template/template.bib`
-   - Open this file and copy the contents. Go back to the bibs folder and Create new file.
-   - Paste the template into the new file. You need to edit the file and put in the references, including your comments in the annotation field.
-
-   - Save this under your key, with the extension of .bib.
+  - Open this file and copy the contents. Go back to the bibs folder and Create new file.
+  - Paste the template into the new file. You need to edit the file and put in the references, including your comments in the annotation field.
+  - Save this under your key, with the extension of .bib.
 4. Create your biographic information and upload a picture.  These are in the bios folder.  The naming convention is key.txt for the bio and key.[jpg|png] for the photo.
 5. Finally, create a pull request. Go back to the root of your repository and click `New pull request`
-
-   - Review your work, put in a comment and submit the request.
-
+  - Review your work, put in a comment and submit the request.
 6. You are done. The maintainer, now needs to accept your pull requests and recompile to the document.
 
 
@@ -59,7 +56,10 @@ This allows for more than one contributor to annotate the same reference.
 
 The citation also has a key, its the first element after the entry type, in this case, Cameron2005. 
 
-The `contrib-cites.csv`file contains two columns, it is the mapping between the contributors and the citations.  It is generated from the `.bib` files by the `compile.sh` script.
+### Temporary files
+The `contrib-cites.csv`file is a temporary work file which contains two columns. It is the mapping between the contributors and the citations.  It is generated from the `.bib` files by the `compile.sh` script.
+
+The script also refreshes the temp file `bibs_index.tex` based on the contents of the `contributors.csv` file.  This file is then "included" in the main Latex file, `anbib.tex`.  Thus no changes are needed to the main file when a new contribution arrives.
 
 ## To do
 
