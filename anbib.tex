@@ -9,39 +9,28 @@
 \usepackage[babel]{csquotes}
 \usepackage{etoolbox,xkeyval,ifthen,url}
 \usepackage{enumitem}
-\usepackage[backend=biber]{biblatex-chicago}
+\usepackage[backend=biber,annotation]{biblatex-chicago}
 \usepackage{filecontents}
 \usepackage[all]{nowidow}
 \usepackage{titlesec}
 \newcommand{\sectionbreak}{\clearpage}
 \usepackage{hyperref}
 
-
 \input{bibs_index.tex}
 
 
-%\renewbibmacro*{begentry}{\medskip\newline}
+% the following adjusts the biblatex-chicago macros to provide a hyperlink on the citations
+\DeclareFieldFormat{citehyperref}{%
+\DeclareFieldAlias{bibhyperref}{noformat}% Avoid nested links
+\bibhyperref{#1}}
 
-% the following prints the annotation after the bib entry
-\renewbibmacro{finentry}{%
-  \finentry% 
-  	{
-       \typeout{\thefield{entrykey}}
-       \DTLforeach*[\DTLiseq{\thefield{entrykey}}{\citation}]{contribcites}{\ckey=contribkey, \citation=citation}{
-            \smallskip\newline
-            \textsf { \input{bibs/annos/\ckey-\citation.txt}}
-            \par
-            % now attribute the contributor
-            \typeout{|\ckey|}
-            \edtlgetrowforvalue{contributors}{\dtlcolumnindex{contributors}{key}}{\ckey}%
-            \dtlgetentryfromcurrentrow{\last}{\dtlcolumnindex{contributors}{last}}%
-            \dtlgetentryfromcurrentrow{\first}{\dtlcolumnindex{contributors}{first}}%
-            \textsf{--~\first~\last}
-            \smallskip\newline
-            }              
-    }%
-}
+\savebibmacro{cite}
 
+\renewbibmacro*{cite}{%
+  \printtext[citehyperref]{%
+  \restorebibmacro{cite}%
+  \usebibmacro{cite}}}
+% end of hyperlink patch
 
 %SetFonts
 \usepackage{fontspec}
