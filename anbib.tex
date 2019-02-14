@@ -19,6 +19,19 @@
 \input{bibs_index.tex}
 
 
+% the following adjusts the biblatex-chicago macros to provide a hyperlink on the citations
+\DeclareFieldFormat{citehyperref}{%
+\DeclareFieldAlias{bibhyperref}{noformat}% Avoid nested links
+\bibhyperref{#1}}
+
+\savebibmacro{cite}
+
+\renewbibmacro*{cite}{%
+  \printtext[citehyperref]{%
+  \restorebibmacro{cite}%
+  \usebibmacro{cite}}}
+% end of hyperlink patch
+
 %SetFonts
 \usepackage{fontspec}
 \input{fonts.tex} 
