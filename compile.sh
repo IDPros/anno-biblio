@@ -10,6 +10,12 @@ awk -f ../scripts/x-anno.awk *.bib
 # working copy without the annos
 awk -f ../scripts/remove-anno.awk *.bib
 
+#create the external annotations by citation
+cd annos
+../../scripts/combine-cites.sh
+
+cd ..
+
 # regenerate the contrib-cites map
 head -n 1  ../contrib-cites.csv > annos/_.csv #grep the header
 cat annos/*.csv > ../contrib-cites.csv #put all into one file
