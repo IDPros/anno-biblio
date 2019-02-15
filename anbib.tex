@@ -9,7 +9,11 @@
 \usepackage[babel]{csquotes}
 \usepackage{etoolbox,xkeyval,ifthen,url}
 \usepackage{enumitem}
-\usepackage[backend=biber,annotation]{biblatex-chicago}
+\usepackage[
+	backend=biber,
+	annotation,
+	loadfiles=true % this forces load of external annotations - based on naming convention
+]{biblatex-chicago}
 \usepackage{filecontents}
 \usepackage[all]{nowidow}
 \usepackage{titlesec}
