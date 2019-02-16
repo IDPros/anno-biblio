@@ -23,5 +23,4 @@ do
   format="\\\\\\vspace{24pt}{\\setlength{\\parindent}{0cm}\\textsc{"
   end="}}"
   echo $format "---" $first $last $end >> $base$a
-  echo "" >> $base$a
 done
