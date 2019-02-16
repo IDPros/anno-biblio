@@ -1,4 +1,7 @@
 #!/bin/bash
+# main script to compile the anno biblio
+# run the the project root
+# pass in the name of the driver tex file (anbib)
 filename=$1
 filename="${filename%.*}"  # strip off any extension
 
@@ -11,16 +14,14 @@ awk -f ../scripts/x-anno.awk *.bib
 awk -f ../scripts/remove-anno.awk *.bib
 
 #create the external annotations by citation
-cd annos
-../../scripts/combine-cites.sh
-
 cd ..
+scripts/combine-cites.sh
 
 # regenerate the contrib-cites map
-head -n 1  ../contrib-cites.csv > annos/_.csv #grep the header
-cat annos/*.csv > ../contrib-cites.csv #put all into one file
-rm annos/*.csv #clean up
-cd ..
+#head -n 1  ../contrib-cites.csv > annos/_.csv #grep the header
+#cat annos/*.csv > ../contrib-cites.csv #put all into one file
+#rm annos/*.csv #clean up
+#cd ..
 
 # put the contributors file into order by last name
 head -n 1 contributors.csv > tmp

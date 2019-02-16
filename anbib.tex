@@ -22,6 +22,10 @@
 
 \input{bibs_index.tex}
 
+%the following removes the dot between the entries when \\ occurs after annotation
+% the \\ is there to ensure space between the annotations from >1 contributor
+% and its hard to avoid on the last line, thus this command
+\renewcommand*{\finentrypunct}{}%
 
 % the following adjusts the biblatex-chicago macros to provide a hyperlink on the citations
 \DeclareFieldFormat{citehyperref}{%
