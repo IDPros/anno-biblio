@@ -26,7 +26,7 @@ do
   last=`echo $entry | awk -F ',' '{print $3}'`
 
   #wrap with a format for tex (escape the back slashes)
-  format="\\\\\\vspace{24pt}{\\setlength{\\parindent}{0cm}\\textsc{"
-  end="\\\\}}"
+  format="\\setlength{\\parindent}{0cm}\\par\\textsc{"
+  end="}\\par\\vspace{12pt}\\setlength{\\parindent}{15pt}"
   echo $format "---" $first $last $end >> $base$a
 done

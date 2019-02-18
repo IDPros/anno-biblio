@@ -67,15 +67,15 @@
 
 \DTLforeach*{contributors}{\key=key,\first=first,\last=last,\area=location,\gtype=gtype}{
     \subsection{\first~\last}
-    \textsf{\area} \\
+    \textsf{\area} \par
     \setlength{\columnsep}{0pt}% trims the white space around the picture
     \begin{wrapfigure}{l}{0.25\textwidth}
         \centering
        \includegraphics[width=0.18\textwidth]{bios/\key.\gtype}
     \end{wrapfigure}
-  
+ 
     \textsf{
-        \input{bios/\key.txt}
+       \input{bios/\key.txt}
      }
     \subsubsection{Recommendations}
     \begin{enumerate}   
