@@ -1,6 +1,6 @@
 % !TEX TS-program = XeLaTeX
 \documentclass[11pt, oneside,american]{book}   	
-\usepackage{geometry}                		% See geometry.pdf to learn the layout options. There are lots.
+\usepackage[margin=1in]{geometry}                		% See geometry.pdf to learn the layout options. There are lots.
 \geometry{letterpaper}                   		% ... or a4paper or a5paper or ... 
 \usepackage{graphicx}
 \usepackage{float}
@@ -9,7 +9,11 @@
 \usepackage[babel]{csquotes}
 \usepackage{etoolbox,xkeyval,ifthen,url}
 \usepackage{enumitem}
-\usepackage[backend=biber,annotation]{biblatex-chicago}
+\usepackage[
+	backend=biber,
+	annotation,
+	loadfiles=true % this forces load of external annotations - based on naming convention
+]{biblatex-chicago}
 \usepackage{filecontents}
 \usepackage[all]{nowidow}
 \usepackage{titlesec}
@@ -18,6 +22,10 @@
 
 \input{bibs_index.tex}
 
+%the following removes the dot between the entries when \\ occurs after annotation
+% the \\ is there to ensure space between the annotations from >1 contributor
+% and its hard to avoid on the last line, thus this command
+\renewcommand*{\finentrypunct}{}%
 
 % the following adjusts the biblatex-chicago macros to provide a hyperlink on the citations
 \DeclareFieldFormat{citehyperref}{%
@@ -59,15 +67,15 @@
 
 \DTLforeach*{contributors}{\key=key,\first=first,\last=last,\area=location,\gtype=gtype}{
     \subsection{\first~\last}
-    \textsf{\area} \\
+    \textsf{\area} \par
     \setlength{\columnsep}{0pt}% trims the white space around the picture
     \begin{wrapfigure}{l}{0.25\textwidth}
         \centering
        \includegraphics[width=0.18\textwidth]{bios/\key.\gtype}
     \end{wrapfigure}
-  
+ 
     \textsf{
-        \input{bios/\key.txt}
+       \input{bios/\key.txt}
      }
     \subsubsection{Recommendations}
     \begin{enumerate}   

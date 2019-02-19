@@ -1,5 +1,7 @@
 #!/bin/awk
 #Extract the annotation fields from a .tex file
+#A new file is set for each contributor-citation
+#These are further processed into external annotation files for Latex (by ___)
 
 /^@.*/ {
 
