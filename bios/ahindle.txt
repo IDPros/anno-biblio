@@ -1,6 +1,8 @@
 Andrew (Andi) Hindle is an independent consultant currently focusing on Digital Identity and Privacy.  Since 2015 he has been Content Chair for Identiverse.  He is a founding member of IDPro, serving on the Board and chairing the Newsletter Committee.
-Andi is also a member of OIX and of Kantara, where he has been active for several years as a voting member in the UMA WG.  
-Andi's background is in technical marketing and business development.  Prior to developing the European and Asia Pacific businesses for Ping Identity, he held a variety of roles with Adobe, Macromedia and Allaire (during which time he co-authored a book on ColdFusion development, in case anyone is still around who remembers CFML...!)
+Andi is also a member of OIX and of Kantara, where he has been active for several years as a voting member in the UMA WG.
+
+Andi's background is in technical marketing and business development.  Prior to developing the European and Asia Pacific businesses for Ping Identity, he held a variety of roles with Adobe, Macromedia, and Allaire (during which time he co-authored a book on ColdFusion development, in case anyone is still around who remembers CFML...!)
 Andi holds a BA in Oriental Studies (Japanese) from Oxford University and maintains CIPP/E and CIPM certifications from the IAPP.
 Outside of work, Andi is active in UK Scouting as Assistant Group Scout Leader for his local scout group, and privacy advisor to Oxfordshire Scouting.
+
 In what spare time he has left, he can be found cycling (on a road, not on trails); playing a guitar (badly), a keyboard (less badly but not well) or a Bassoon (yes, really); or enjoying a dram or two of whisk(e)y... though not usually at the same time.

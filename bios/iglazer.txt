@@ -1,4 +1,4 @@
-I am the Vice President for Identity, Privacy, and Data Governance Product Management, at Salesforce. I look after the product management team, product strategy and identity standards work. I am also involved with major customer initiatives, briefing C-level executives, and coordinating industry-wide identity efforts.
+I am the Vice President for Identity, Privacy, and Data Governance Product Management, at Salesforce. I look after the product management team, product strategy, and identity standards work. I am also involved with major customer initiatives, briefing C-level executives, and coordinating industry-wide identity efforts.
 
 I used to be a research vice president and agenda manager on the Identity and Privacy Strategies team at Gartner, where I oversaw the entire team's research. I got to Gartner by way of Gartner's acquisition of the Burton Group. I led the team's coverage for authorization and privacy; topics within these two main areas included externalized authorization management, XACML, federated authorization, privacy by design, and privacy programs. Other topics I researched include user provisioning, identity and access governance, access certification, role management, identity data quality, and national identity programs.
 
@@ -9,4 +9,3 @@ I am the founder and president of IDPro, the professional organization for digit
 During my decade-plus time in the identity industry I have co-authored a patent on federated user provisioning, co-authored the Service Provisioning Markup Language (SPML) Version 2 specification, contributed to the System for Cross Domain Identity Management (SCIM) Version 2 specification, and am a noted blogger, speaker, and photographer of my own socks.
 
 I graduated from the University of Pennsylvania cum laude with a Bachelors of Applied Science in Computer Science. I studied artificial intelligence at the University of Edinburgh. I currently reside in Washington DC.
-

@@ -1,5 +1,5 @@
 André is IAM and Security Consultant at Nixu Benelux and  is the IAM Internal Practice Lead within Nixu.
 
-My IAM experience comes from my financial accounting and auditing background. This background of anti-fraud detection and prevention business processes lead to research in the area of authorization principles.
+My IAM experience comes from my financial accounting and auditing background. This background of anti-fraud detection and prevention business processes led to research in the area of authorization principles.
 Currently I am working with different customers on federated identity and access architectures, both for internal and external identities (B2C, B2B, B2E and T2B - Things to Business).
-My motivation to participate in the IDPro BoK project stems directly from my need to share knowledge as a lecturer, author, blogger and social media activist. And from my mission to take infosec out of the realm of IT.  
+My motivation to participate in the IDPro BoK project stems directly from my need to share knowledge as a lecturer, author, blogger, and social media activist. And from my mission to take infosec out of the realm of IT.  
