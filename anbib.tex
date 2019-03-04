@@ -49,11 +49,6 @@
 
 \setcounter{secnumdepth}{-1}
 
-\usepackage{datatool}
-\DTLsetseparator{,}
-\DTLloaddb{contributors}{contributors.csv}
-\DTLloaddb{contribcites}{contrib-cites.csv}
-
 \setlist{nosep} %tighten up lists
 
 \begin{document}
@@ -64,27 +59,6 @@
 \input{frontmatter/intro.tex}
 \mainmatter
 \section{The Contributors}
-
-\DTLforeach*{contributors}{\key=key,\first=first,\last=last,\area=location,\gtype=gtype}{
-    \subsection{\first~\last}
-    \textsf{\area} \par
-    \setlength{\columnsep}{0pt}% trims the white space around the picture
-    \begin{wrapfigure}{l}{0.25\textwidth}
-        \centering
-       \includegraphics[width=0.18\textwidth]{bios/\key.\gtype}
-    \end{wrapfigure}
- 
-    \textsf{
-       \input{bios/\key.txt}
-     }
-    \subsubsection{Recommendations}
-    \begin{enumerate}   
-    \DTLforeach*[\DTLiseq{\key}{\contribkey}]{contribcites}{\contribkey=contribkey, \citation=citation}{
-        \item \cite{\citation}
-    }          
-    \end{enumerate}  
-    \noindent\rule{\textwidth}{0.2pt}      
-}
-
+\input{recommends.tex}
 \printbibliography 
 \end{document}

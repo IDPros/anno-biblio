@@ -33,6 +33,9 @@ mv tmp contributors.csv
 # regenerate the include file for the contributors
 awk -F ',' '{if(NR > 1) {print "\\addbibresource{bibs-no-anno/" $1 ".bib}"}}' contributors.csv > bibs_index.tex
 
+# regenerate the recommends file
+scripts/gentex.sh
+
 # xelatex allows for modern fonts and unicode
 xelatex $filename # first run to prepare for biber
 biber $filename
