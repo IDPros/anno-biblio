@@ -1,0 +1,5 @@
+[0] Config.pm:304> INFO - This is Biber 2.12
+[0] Config.pm:307> INFO - Logfile is 'anbib.tex.blg'
+[33] biber-darwin:315> INFO - === Thu Mar  7, 2019, 14:40:15
+[63] Utils.pm:209> ERROR - Cannot find control file 'anbib.tex.bcf'! - Did latex run successfully on your .tex file before you ran biber?
+[64] Biber.pm:114> INFO - ERRORS: 1

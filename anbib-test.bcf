@@ -2832,32 +2832,9 @@
     <bcf:datasource type="file" datatype="bibtex">bibs-no-anno/gwilliamson.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1">Cameron2005</bcf:citekey>
-    <bcf:citekey order="2">Hoffman1977</bcf:citekey>
-    <bcf:citekey order="3">Clippinger2007</bcf:citekey>
-    <bcf:citekey order="4">Richer2017</bcf:citekey>
-    <bcf:citekey order="5">Windley2005</bcf:citekey>
-    <bcf:citekey order="6">Carlier2018</bcf:citekey>
-    <bcf:citekey order="7">Moore1991</bcf:citekey>
-    <bcf:citekey order="8">Birch2014</bcf:citekey>
-    <bcf:citekey order="9">Hardjono2016</bcf:citekey>
-    <bcf:citekey order="10">Nayyar2018</bcf:citekey>
-    <bcf:citekey order="11">Richer2017</bcf:citekey>
-    <bcf:citekey order="12">Schwartz2018</bcf:citekey>
-    <bcf:citekey order="13">Cameron2005</bcf:citekey>
-    <bcf:citekey order="14">Hardt2005</bcf:citekey>
-    <bcf:citekey order="15">Harper2006</bcf:citekey>
-    <bcf:citekey order="16">Williamson2017</bcf:citekey>
-    <bcf:citekey order="17">Hazelton2015</bcf:citekey>
-    <bcf:citekey order="18">Prasad2012</bcf:citekey>
-    <bcf:citekey order="19">Windley2005</bcf:citekey>
-    <bcf:citekey order="20">Gilman2017</bcf:citekey>
-    <bcf:citekey order="21">Hardt2005</bcf:citekey>
-    <bcf:citekey order="22">NSTIC2011</bcf:citekey>
-    <bcf:citekey order="23">Richer2017</bcf:citekey>
-    <bcf:citekey order="24">DTA-AUS2018</bcf:citekey>
-    <bcf:citekey order="25">NIST-USA2017</bcf:citekey>
-    <bcf:citekey order="26">Williamson2017</bcf:citekey>
+    <bcf:citekey order="1">Hazelton2015</bcf:citekey>
+    <bcf:citekey order="2">Prasad2012</bcf:citekey>
+    <bcf:citekey order="3">Windley2005</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="cms">
