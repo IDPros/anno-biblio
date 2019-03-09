@@ -19,16 +19,12 @@ subfirst="s/\first/"
 [ -f $outfile ] && rm $outfile  # remove old output file
 
 tx="\subsection{\first~\last} \
-    \textsf{\area} \par \
-    \setlength{\columnsep}{0pt} \
-    \begin{wrapfigure}{l}{0.25\textwidth} \
-        \centering \
-       \includegraphics[width=0.18\textwidth]{bios/\key.\gtype} \
-    \end{wrapfigure} \
-    \textsf{ \
-       \input{bios/\key.txt} \
-     } \
-    \WFclear
+    \textsf{\area} \
+    \smallskip \
+    \InsertBoxL{0}{\includegraphics[width=0.18\textwidth]{bios/\key.\gtype}} \
+    \sffamily \
+    \input{bios/\key.txt} \
+    \medskip \
     \subsubsection{Recommendations}\begin{enumerate}"
 citeitem="\item \cite{\citation}"
 endenum="\end{enumerate}\noindent\rule{\textwidth}{0.2pt}"
