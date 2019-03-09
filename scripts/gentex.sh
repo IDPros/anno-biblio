@@ -28,6 +28,7 @@ tx="\subsection{\first~\last} \
     \textsf{ \
        \input{bios/\key.txt} \
      } \
+    \WFclear
     \subsubsection{Recommendations}\begin{enumerate}"
 citeitem="\item \cite{\citation}"
 endenum="\end{enumerate}\noindent\rule{\textwidth}{0.2pt}"
