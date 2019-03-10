@@ -25,10 +25,7 @@ tx="\subsection{\first~\last} \
         \centering \
        \includegraphics[width=0.18\textwidth]{bios/\key.\gtype} \
     \end{wrapfigure} \
-    \textsf{ \
-       \input{bios/\key.txt} \
-     } \
-    \WFclear
+    \input{bios/\key.txt} \
     \subsubsection{Recommendations}\begin{enumerate}"
 citeitem="\item \cite{\citation}"
 endenum="\end{enumerate}\noindent\rule{\textwidth}{0.2pt}"

@@ -1,0 +1,569 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{Birch2014}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=004df110e21f2b1b0cc67f76dd9155cf}{%
+           family={Birch},
+           familyi={B\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {London Publishing Partnership}%
+      }
+      \strng{namehash}{004df110e21f2b1b0cc67f76dd9155cf}
+      \strng{fullhash}{004df110e21f2b1b0cc67f76dd9155cf}
+      \strng{bibnamehash}{004df110e21f2b1b0cc67f76dd9155cf}
+      \strng{authorbibnamehash}{004df110e21f2b1b0cc67f76dd9155cf}
+      \strng{authornamehash}{004df110e21f2b1b0cc67f76dd9155cf}
+      \strng{authorfullhash}{004df110e21f2b1b0cc67f76dd9155cf}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{annotation}{I purchased this book shortly after its release after reading one of David Birch’s online posts about the rise of social identity in parallel to the decline of cash in our modern world. He begins with a synopsis of how broken our definitions of ‘identity’ are and focuses on three primary types: personal individual identity, social identity, and legal identity. Of these, he singles out social identity (which he differentiates from social media) with the observation that “identity is returning to a concept built on networks, rather than index cards in a filing cabinet.” The book is also loaded with real-world case studies to highlight and support David’s conclusions. Even those seasoned professionals who feel that there’s little more to learn from a book will find important insights here that have certainly shaped my own view on the future of identity, identity systems, and the frameworks that support them. }
+      \field{shorttitle}{Identity is the New Money}
+      \field{title}{Identity is the New Money}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{pages}{140 pages}
+      \range{pages}{-1}
+    \endentry
+    \entry{Cameron2005}{booklet}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=832c9fa0d04922c69024d6eceb9e80a4}{%
+           family={Cameron},
+           familyi={C\bibinitperiod},
+           given={Kim},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{832c9fa0d04922c69024d6eceb9e80a4}
+      \strng{fullhash}{832c9fa0d04922c69024d6eceb9e80a4}
+      \strng{bibnamehash}{832c9fa0d04922c69024d6eceb9e80a4}
+      \strng{authorbibnamehash}{832c9fa0d04922c69024d6eceb9e80a4}
+      \strng{authornamehash}{832c9fa0d04922c69024d6eceb9e80a4}
+      \strng{authorfullhash}{832c9fa0d04922c69024d6eceb9e80a4}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{Love the careful use of language. For example, distinguishing between claims and assertions based on the connotation or note of doubt. How sad that 2005 era vision of user control and consent has not yet been universally accepted in 2018. In 2018 this document still provides a powerful framework for thought about identities.}
+      \field{title}{The Laws of Identity}
+      \field{urlday}{1}
+      \field{urlmonth}{12}
+      \field{urlyear}{2018}
+      \field{year}{2005}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://www.identityblog.com/stories/2005/05/13/TheLawsOfIdentity.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.identityblog.com/stories/2005/05/13/TheLawsOfIdentity.pdf
+      \endverb
+    \endentry
+    \entry{Clippinger2007}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=cd5f6b91d52d3d62b4d7448db3ccbe42}{%
+           family={Clippinger},
+           familyi={C\bibinitperiod},
+           given={John\bibnamedelima Henry},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {PublicAffairs}%
+      }
+      \strng{namehash}{cd5f6b91d52d3d62b4d7448db3ccbe42}
+      \strng{fullhash}{cd5f6b91d52d3d62b4d7448db3ccbe42}
+      \strng{bibnamehash}{cd5f6b91d52d3d62b4d7448db3ccbe42}
+      \strng{authorbibnamehash}{cd5f6b91d52d3d62b4d7448db3ccbe42}
+      \strng{authornamehash}{cd5f6b91d52d3d62b4d7448db3ccbe42}
+      \strng{authorfullhash}{cd5f6b91d52d3d62b4d7448db3ccbe42}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{annotation}{Less on the pragmatic and more on the philosophical end of the spectrum, Clippinger’s work lays highlights some of a questions our industry must face. Although a bit dated, A Crowd of One is still worth a read, if only to help trigger “big thoughts” on identity.}
+      \field{shorttitle}{A Crowd of One}
+      \field{title}{A Crowd of One: The Future of Individual Identity}
+      \field{year}{2007}
+      \field{pages}{240 pages}
+      \range{pages}{-1}
+    \endentry
+    \entry{DTA-AUS2018}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=665429204632b06b828ed79871960807}{%
+           family={Digital\bibnamedelimb Transformation\bibnamedelima Agency},
+           familyi={D\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={Australian\bibnamedelima Government},
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{665429204632b06b828ed79871960807}
+      \strng{fullhash}{665429204632b06b828ed79871960807}
+      \strng{bibnamehash}{665429204632b06b828ed79871960807}
+      \strng{authorbibnamehash}{665429204632b06b828ed79871960807}
+      \strng{authornamehash}{665429204632b06b828ed79871960807}
+      \strng{authorfullhash}{665429204632b06b828ed79871960807}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{The TDIF defines the requirements for a complete identity and access management deployment. It is over-the-top for most organizations but provides useful reference material.}
+      \field{title}{Trusted Digital Identity Framework}
+      \field{urlday}{7}
+      \field{urlmonth}{1}
+      \field{urlyear}{2019}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.dta.gov.au/our-projects/digital-identity/join-identity-federation/accreditation-and-onboarding/trusted-digital-identity-framework
+      \endverb
+      \verb{url}
+      \verb https://www.dta.gov.au/our-projects/digital-identity/join-identity-federation/accreditation-and-onboarding/trusted-digital-identity-framework
+      \endverb
+    \endentry
+    \entry{Gilman2017}{book}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=66a86497c148dc3617111023879fac50}{%
+           family={Gilman},
+           familyi={G\bibinitperiod},
+           given={Evan},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=63160d27e3bdb1cf87b7c16e58ba8b42}{%
+           family={Barth},
+           familyi={B\bibinitperiod},
+           given={Doug},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {O'Reilly Media}%
+      }
+      \strng{namehash}{9c51401dde595f227df7db3e365dacf5}
+      \strng{fullhash}{9c51401dde595f227df7db3e365dacf5}
+      \strng{bibnamehash}{9c51401dde595f227df7db3e365dacf5}
+      \strng{authorbibnamehash}{9c51401dde595f227df7db3e365dacf5}
+      \strng{authornamehash}{9c51401dde595f227df7db3e365dacf5}
+      \strng{authorfullhash}{9c51401dde595f227df7db3e365dacf5}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{annotation}{This is an excellent primer on strong authentication techniques. Don’t let the word “networks” in the title fool you. This is about securing systems using methods other than networks - namely, identity, device, and application management.}
+      \field{month}{6}
+      \field{shorttitle}{Zero Trust Networks}
+      \field{title}{Zero Trust Networks: Building Secure Systems in Untrusted Networks}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{pages}{240 pages}
+      \range{pages}{-1}
+    \endentry
+    \entry{Hardjono2016}{book}{}
+      \name{editor}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=25c96b42bafbdee8897dc2ebd7daecd1}{%
+           family={Hardjono},
+           familyi={H\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f86b46dfc98f95eb9eeb94e5c885a8cf}{%
+           family={Shrier},
+           familyi={S\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=cfeba84379500ca15113b46bf96d3c2a}{%
+           family={Pentland},
+           familyi={P\bibinitperiod},
+           given={Alex},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {VisionaryFuture}%
+      }
+      \strng{namehash}{70a78b27b50bbc13abddabf59e5293e4}
+      \strng{fullhash}{70a78b27b50bbc13abddabf59e5293e4}
+      \strng{bibnamehash}{70a78b27b50bbc13abddabf59e5293e4}
+      \strng{editorbibnamehash}{70a78b27b50bbc13abddabf59e5293e4}
+      \strng{editornamehash}{70a78b27b50bbc13abddabf59e5293e4}
+      \strng{editorfullhash}{70a78b27b50bbc13abddabf59e5293e4}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{shorttitle}
+      \field{annotation}{A wonderful academic discussion on the need for our identity and data security systems to adapt to a world that has moved from a physical document-based culture to one built on digital transactions. The book includes in-depth examinations of user centricity, data privacy, distributed trust authorities, universal access, and many other topics. It also includes some possible solutions (such as MIT’s OPAL/ENIGMA systems). The solutions presented are more reliant on blockchain than I care for but followers of UMA will see much in here familiar and well presented. You may not agree with everything in the book but it superbly researched and documented. The 20-page bibliography alone is worth the price of admission as it allows you to delve deeper into specific topics with the source material. }
+      \field{shorttitle}{Trust::Data}
+      \field{title}{Trust::Data: A New Framework for Identity and Data Sharing}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{pages}{312 pages}
+      \range{pages}{-1}
+    \endentry
+    \entry{Hardt2005}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=645c23d98c8c0ad0899cb4be651e6a02}{%
+           family={Hardt},
+           familyi={H\bibinitperiod},
+           given={Dick},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{645c23d98c8c0ad0899cb4be651e6a02}
+      \strng{fullhash}{645c23d98c8c0ad0899cb4be651e6a02}
+      \strng{bibnamehash}{645c23d98c8c0ad0899cb4be651e6a02}
+      \strng{authorbibnamehash}{645c23d98c8c0ad0899cb4be651e6a02}
+      \strng{authornamehash}{645c23d98c8c0ad0899cb4be651e6a02}
+      \strng{authorfullhash}{645c23d98c8c0ad0899cb4be651e6a02}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{Although an old video, still worthwhile: the keynote about "Identity 2.0". This presentation (great style, by the way) shows that we still have a long way to go to enable access.}
+      \field{title}{Identity 2.0 Keynote}
+      \field{urlday}{1}
+      \field{urlmonth}{12}
+      \field{urlyear}{2018}
+      \field{year}{2005}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.youtube.com/watch?v=RrpajcAgR1E
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/watch?v=RrpajcAgR1E
+      \endverb
+    \endentry
+    \entry{Harper2006}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=a3f4694e15446725247d463b9140718e}{%
+           family={Harper},
+           familyi={H\bibinitperiod},
+           given={Jim},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cato Institute}%
+      }
+      \strng{namehash}{a3f4694e15446725247d463b9140718e}
+      \strng{fullhash}{a3f4694e15446725247d463b9140718e}
+      \strng{bibnamehash}{a3f4694e15446725247d463b9140718e}
+      \strng{authorbibnamehash}{a3f4694e15446725247d463b9140718e}
+      \strng{authornamehash}{a3f4694e15446725247d463b9140718e}
+      \strng{authorfullhash}{a3f4694e15446725247d463b9140718e}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{annotation}{I really love the subtitle. We should care more about Access, than about Identity. Especially in federated contexts, identity is no longer the bearer of authorizations.}
+      \field{day}{19}
+      \field{month}{5}
+      \field{shorttitle}{Identity Crisis}
+      \field{title}{Identity Crisis: How Identification is Overused and Misunderstood}
+      \field{year}{2006}
+      \field{dateera}{ce}
+      \field{pages}{250 pages}
+      \range{pages}{-1}
+    \endentry
+    \entry{Hazelton2015}{booklet}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=95c0cb38f8fd9c2fbbcd087a6aa510fe}{%
+           family={Hazelton},
+           familyi={H\bibinitperiod},
+           given={Keith},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f6ebee077ea6f2c8f67f01d541cad379}{%
+           family={Walker},
+           familyi={W\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c80647e6fd2edcf5bdaa05c54808c086}
+      \strng{fullhash}{c80647e6fd2edcf5bdaa05c54808c086}
+      \strng{bibnamehash}{c80647e6fd2edcf5bdaa05c54808c086}
+      \strng{authorbibnamehash}{c80647e6fd2edcf5bdaa05c54808c086}
+      \strng{authornamehash}{c80647e6fd2edcf5bdaa05c54808c086}
+      \strng{authorfullhash}{c80647e6fd2edcf5bdaa05c54808c086}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{A great reference coming from the higher-Ed space on SAML SSO integrations, written in a very compelling DO and DON'T format. Many great lessons-to-learn from this one, on many topics in the identity and access management space.}
+      \field{title}{The CIC Cloud Services Cookbook}
+      \field{urlday}{1}
+      \field{urlmonth}{12}
+      \field{urlyear}{2018}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://carmenwiki.osu.edu/display/CICIDM/The+CIC+Cloud+Services+Cookbook
+      \endverb
+      \verb{url}
+      \verb https://carmenwiki.osu.edu/display/CICIDM/The+CIC+Cloud+Services+Cookbook
+      \endverb
+    \endentry
+    \entry{Hoffman1977}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=77255ee0cae5abfeeed5b8549c6e0dee}{%
+           family={Hoffman},
+           familyi={H\bibinitperiod},
+           given={Lance\bibnamedelima J.},
+           giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Prentice-Hall, Inc.}%
+      }
+      \strng{namehash}{77255ee0cae5abfeeed5b8549c6e0dee}
+      \strng{fullhash}{77255ee0cae5abfeeed5b8549c6e0dee}
+      \strng{bibnamehash}{77255ee0cae5abfeeed5b8549c6e0dee}
+      \strng{authorbibnamehash}{77255ee0cae5abfeeed5b8549c6e0dee}
+      \strng{authornamehash}{77255ee0cae5abfeeed5b8549c6e0dee}
+      \strng{authorfullhash}{77255ee0cae5abfeeed5b8549c6e0dee}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{It is interesting how much the world has changed since this book came out. And it is also interesting how much is still relevant. Sure, you can smirk at some of the examples, such as a line speed of 600 characters per minute! However, the text does a good job of the basics on Authentication and Authorization - many of the considerations have remained the same. Although, to be fair, this book predates public key technology and packet switched networks were not yet widely adopted. Chapter 5 is an excellent introduction to ciphers leading up to the P-boxes and S-boxes used Data Encryption Standard. Good background for more modern crypto! There is also a long bibliography of historical interest.}
+      \field{title}{Modern Methods for Computer Security and Privacy}
+      \field{year}{1977}
+      \field{pages}{234 pages}
+      \range{pages}{-1}
+    \endentry
+    \entry{NIST2011}{booklet}{}
+      \field{sortinit}{N}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \field{labeltitlesource}{title}
+      \field{annotation}{This paper was produced by the US Government during the Obama administration and outlines in basic English why the United States does not want to have a central government directory or a central government identity provider. It speculates as to how government could enable the private sector to fill that gap in very smart and innovative ways that protect citizen privacy and prevent government overreach.}
+      \field{title}{National Strategy for Trusted Identities in Cyberspace}
+      \field{urlday}{2}
+      \field{urlmonth}{1}
+      \field{urlyear}{2019}
+      \field{year}{2011}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.nist.gov/sites/default/files/documents/2016/12/08/nsticstrategy.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.nist.gov/sites/default/files/documents/2016/12/08/nsticstrategy.pdf
+      \endverb
+    \endentry
+    \entry{Nayyar2018}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=380d05a16ea84c579160cb78dc3a5cc7}{%
+           family={Nayyar},
+           familyi={N\bibinitperiod},
+           given={Saryu},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Ankur Chadda}%
+      }
+      \strng{namehash}{380d05a16ea84c579160cb78dc3a5cc7}
+      \strng{fullhash}{380d05a16ea84c579160cb78dc3a5cc7}
+      \strng{bibnamehash}{380d05a16ea84c579160cb78dc3a5cc7}
+      \strng{authorbibnamehash}{380d05a16ea84c579160cb78dc3a5cc7}
+      \strng{authornamehash}{380d05a16ea84c579160cb78dc3a5cc7}
+      \strng{authorfullhash}{380d05a16ea84c579160cb78dc3a5cc7}
+      \field{sortinit}{N}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{annotation}{This is one of my new favorite books in the identity and cybersecurity space. Saryu has brought together insights from over a dozen CISOs and CIOs give their views on the state of cybersecurity in the age of zero trust. The common thread in all of their perspectives is "the amplified view of the value of identity and access." I love the book not only because it covers a wide array of identity topics but because it is visionary in its view of what's important now and in the immediate future. I particularly appreciate that, in the end, Saryu takes the input of those contributing security professionals and uses them to provide clear requirements and use cases for what's next: such things as Predictive Security Analysis, Identity Analytics, and User and Entity Behavior Analytics. A fantastic read for any security and/or identity professional. }
+      \field{shorttitle}{Borderless Behavior Analytics}
+      \field{title}{Borderless Behavior Analytics: Who's Inside? What're They Doing? 2nd Edition}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{pages}{424 pages}
+      \range{pages}{-1}
+    \endentry
+    \entry{Prasad2012}{booklet}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=90a08ef5d23e035109aec908257cdce4}{%
+           family={Prasad},
+           familyi={P\bibinitperiod},
+           given={Ganesh},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=97d5c4294918323a5ca71221a4d78a1e}{%
+           family={Rajbhandari},
+           familyi={R\bibinitperiod},
+           given={Umesh},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{dd04ca7e879edbf776b7c5534e9bd57e}
+      \strng{fullhash}{dd04ca7e879edbf776b7c5534e9bd57e}
+      \strng{bibnamehash}{dd04ca7e879edbf776b7c5534e9bd57e}
+      \strng{authorbibnamehash}{dd04ca7e879edbf776b7c5534e9bd57e}
+      \strng{authornamehash}{dd04ca7e879edbf776b7c5534e9bd57e}
+      \strng{authorfullhash}{dd04ca7e879edbf776b7c5534e9bd57e}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{In some contexts, IDAM middleware doesn't get much love. And sometimes, not much budget. In those cases, take some tips from these authors as they assemble an admirable collection of open-source technologies, and an identity-management architecture (IMA) for enterprise. A great read, recommended to me by a respected IDAM colleague.}
+      \field{title}{Identity Management on a Shoestring}
+      \field{urlday}{1}
+      \field{urlmonth}{12}
+      \field{urlyear}{2018}
+      \field{year}{2012}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.infoq.com/minibooks/Identity-Management-Shoestring
+      \endverb
+      \verb{url}
+      \verb https://www.infoq.com/minibooks/Identity-Management-Shoestring
+      \endverb
+    \endentry
+    \entry{Richer2017}{book}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=20d55dc530e6c9a90b9763b664137d42}{%
+           family={Richer},
+           familyi={R\bibinitperiod},
+           given={Justin},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e8635ed20ae7b8c7788c56e1d01db946}{%
+           family={Sanso},
+           familyi={S\bibinitperiod},
+           given={Antonio},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Manning Publication}%
+      }
+      \strng{namehash}{a1351bf9ba32c00c42b4e05885d53a23}
+      \strng{fullhash}{a1351bf9ba32c00c42b4e05885d53a23}
+      \strng{bibnamehash}{a1351bf9ba32c00c42b4e05885d53a23}
+      \strng{authorbibnamehash}{a1351bf9ba32c00c42b4e05885d53a23}
+      \strng{authornamehash}{a1351bf9ba32c00c42b4e05885d53a23}
+      \strng{authorfullhash}{a1351bf9ba32c00c42b4e05885d53a23}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{annotation}{OAuth is a very powerful tool. Its power comes from its flexibility. Flexibility often means the ability to not only do what you want to do, but also the ability to do things in an unsafe way. Because OAuth governs access to APIs, which in turn gates access to your important data, it’s crucial that you do use it in a safe way by avoiding antipatterns and using best practices. Stated differently, just because you have the flexibility to do anything and deploy in any way, doesn’t mean that you should. Thankfully, Justin and Antonio provide pragmatic guidance on what to do and what not to do. They acknowledge both the “I just want to get this done” and the “I want to make sure this is secure” mindsets you have. (Full disclosure… I wrote the Foreword for the book)}
+      \field{month}{3}
+      \field{shorttitle}{OAuth 2 in Action}
+      \field{title}{OAuth 2 in Action}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{pages}{360 pages}
+      \range{pages}{-1}
+    \endentry
+    \entry{NIST-USA2017}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=f22794f69ce5910cb4be68ff9026570d}{%
+           family={Various},
+           familyi={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{f22794f69ce5910cb4be68ff9026570d}
+      \strng{fullhash}{f22794f69ce5910cb4be68ff9026570d}
+      \strng{bibnamehash}{f22794f69ce5910cb4be68ff9026570d}
+      \strng{authorbibnamehash}{f22794f69ce5910cb4be68ff9026570d}
+      \strng{authornamehash}{f22794f69ce5910cb4be68ff9026570d}
+      \strng{authorfullhash}{f22794f69ce5910cb4be68ff9026570d}
+      \field{sortinit}{V}
+      \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{NIST provides a succinct summary or access control issues and is considered a seminal publication to guide IAM strategy and deployment.}
+      \field{title}{NIST Special Publication 800-63C, Digital Identity Guidelines}
+      \field{urlyear}{}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://pages.nist.gov/800-63-3/sp800-63c.html
+      \endverb
+      \verb{url}
+      \verb https://pages.nist.gov/800-63-3/sp800-63c.html
+      \endverb
+    \endentry
+    \entry{Williamson2017}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=c312985d615e90fe719901f0573ad1d8}{%
+           family={Williamson},
+           familyi={W\bibinitperiod},
+           given={Graham},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {MC Press Online, Boise, ID}%
+      }
+      \strng{namehash}{c312985d615e90fe719901f0573ad1d8}
+      \strng{fullhash}{c312985d615e90fe719901f0573ad1d8}
+      \strng{bibnamehash}{c312985d615e90fe719901f0573ad1d8}
+      \strng{authorbibnamehash}{c312985d615e90fe719901f0573ad1d8}
+      \strng{authornamehash}{c312985d615e90fe719901f0573ad1d8}
+      \strng{authorfullhash}{c312985d615e90fe719901f0573ad1d8}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{It was written to help business people understand IAM, the trends and the responsibilities of those collecting, using and storing identity data.}
+      \field{title}{Identity Management: A Business Perspective}
+      \field{pages}{235 pages}
+      \range{pages}{-1}
+      \warn{\item Entry 'Williamson2017' (bibs/gwilliamson.bib): Invalid format 'February 2017' of date field 'date' - ignoring}
+    \endentry
+    \entry{Windley2005}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=51100032e8bb8b0f50c272b5cbbc5280}{%
+           family={Windley},
+           familyi={W\bibinitperiod},
+           given={Phillip\bibnamedelima J.},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {O'Reilly Media}%
+      }
+      \strng{namehash}{51100032e8bb8b0f50c272b5cbbc5280}
+      \strng{fullhash}{51100032e8bb8b0f50c272b5cbbc5280}
+      \strng{bibnamehash}{51100032e8bb8b0f50c272b5cbbc5280}
+      \strng{authorbibnamehash}{51100032e8bb8b0f50c272b5cbbc5280}
+      \strng{authornamehash}{51100032e8bb8b0f50c272b5cbbc5280}
+      \strng{authorfullhash}{51100032e8bb8b0f50c272b5cbbc5280}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{annotation}{This book starts with the basics of digital identity - what you know, what you have, what you are. From there it provides a broad overview of many important concepts. It is an accessible book and caters to beginner and expert readers alike and best of all, it can be read cover to cover in one sitting.}
+      \field{shorttitle}{Digital Identity}
+      \field{title}{Digital Identity: Unmasking Identity Management Architeture (IMA)}
+      \field{year}{2005}
+      \field{pages}{266 pages}
+      \range{pages}{-1}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

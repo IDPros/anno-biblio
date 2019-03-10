@@ -1,0 +1,43 @@
+[0] Config.pm:302> INFO - This is Biber 2.11
+[0] Config.pm:305> INFO - Logfile is 'anbib_html.blg'
+[32] biber-darwin:313> INFO - === Tue Jan 22, 2019, 21:16:00
+[52] Biber.pm:371> INFO - Reading 'anbib_html.bcf'
+[123] Biber.pm:857> INFO - Found 17 citekeys in bib section 0
+[133] Biber.pm:3976> INFO - Processing section 0
+[141] Biber.pm:4136> INFO - Looking for bibtex format file 'bibs/gdobbs.bib' for section 0
+[144] bibtex.pm:1500> INFO - LaTeX decoding ...
+[148] bibtex.pm:1316> INFO - Found BibTeX data source 'bibs/gdobbs.bib'
+[155] Biber.pm:4136> INFO - Looking for bibtex format file 'bibs/iglazer.bib' for section 0
+[156] bibtex.pm:1500> INFO - LaTeX decoding ...
+[160] bibtex.pm:1316> INFO - Found BibTeX data source 'bibs/iglazer.bib'
+[168] Biber.pm:4136> INFO - Looking for bibtex format file 'bibs/shaq.bib' for section 0
+[169] bibtex.pm:1500> INFO - LaTeX decoding ...
+[171] bibtex.pm:1316> INFO - Found BibTeX data source 'bibs/shaq.bib'
+[174] Biber.pm:4136> INFO - Looking for bibtex format file 'bibs/shutchinson.bib' for section 0
+[176] bibtex.pm:1500> INFO - LaTeX decoding ...
+[185] bibtex.pm:1316> INFO - Found BibTeX data source 'bibs/shutchinson.bib'
+[185] Utils.pm:193> WARN - Duplicate entry key: 'Richer2017' in file 'bibs/shutchinson.bib', skipping ...
+[196] Biber.pm:4136> INFO - Looking for bibtex format file 'bibs/akoot.bib' for section 0
+[197] bibtex.pm:1500> INFO - LaTeX decoding ...
+[200] bibtex.pm:1316> INFO - Found BibTeX data source 'bibs/akoot.bib'
+[201] Utils.pm:193> WARN - Duplicate entry key: 'Cameron2005' in file 'bibs/akoot.bib', skipping ...
+[208] Biber.pm:4136> INFO - Looking for bibtex format file 'bibs/cscholefield.bib' for section 0
+[209] bibtex.pm:1500> INFO - LaTeX decoding ...
+[213] bibtex.pm:1316> INFO - Found BibTeX data source 'bibs/cscholefield.bib'
+[213] Utils.pm:193> WARN - Duplicate entry key: 'Windley2005' in file 'bibs/cscholefield.bib', skipping ...
+[222] Biber.pm:4136> INFO - Looking for bibtex format file 'bibs/ssquire.bib' for section 0
+[223] bibtex.pm:1500> INFO - LaTeX decoding ...
+[228] bibtex.pm:1316> INFO - Found BibTeX data source 'bibs/ssquire.bib'
+[229] Utils.pm:193> WARN - Duplicate entry key: 'Richer2017' in file 'bibs/ssquire.bib', skipping ...
+[229] Utils.pm:193> WARN - Duplicate entry key: 'Hardt2005' in file 'bibs/ssquire.bib', skipping ...
+[235] Biber.pm:4136> INFO - Looking for bibtex format file 'bibs/gwilliamson.bib' for section 0
+[236] bibtex.pm:1500> INFO - LaTeX decoding ...
+[240] bibtex.pm:1316> INFO - Found BibTeX data source 'bibs/gwilliamson.bib'
+[248] Utils.pm:193> WARN - Entry 'Williamson2017' (bibs/gwilliamson.bib): Invalid format 'February 2017' of date field 'date' - ignoring
+[269] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[269] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[269] Biber.pm:3804> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[269] Biber.pm:3810> INFO - No sort tailoring available for locale 'en-US'
+[285] bbl.pm:617> INFO - Writing 'anbib_html.bbl' with encoding 'UTF-8'
+[293] bbl.pm:720> INFO - Output to anbib_html.bbl
+[293] Biber.pm:110> INFO - WARNINGS: 6
