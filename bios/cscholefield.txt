@@ -1,3 +1,3 @@
-I work in the area of public-sector digital identity management, designing access management solutions that meet requirements for information security, ease of use, and privacy.
-I am currently working on identity systems renewal projects for the University of Victoria, related to systems that provide accounts-provisioning, access certification, and identity life-cycle management functions.
-I am also working in the area of identity federation with Higher-Ed colleagues connected to BCNet, CANARIE, and the Canadian Access Federation.
+Corey is currently a Technical Product Owner with Workday, and coordinates tool deployment to support Workday's cloud-ERP suite.  Corey has a background in public-sector identity-management, having spent over 15 years working in higher-education, with positions at both University of Victoria and BCNET in British Columbia, Canada.  
+
+At BCNET, Corey led a federated-identity service bureau which supported regional adoption of eduroam and SAML capabilities under the umbrella of the the Canadian Access Federation.  At UVic, Corey's team established an identity-management program that supported campus-wide access-management needs.  Corey has deployed many IDAM technologies including OpenLDAP, CAS SSO, Sun IDM, Shib IDP, and SailPoint IdentityIQ.
