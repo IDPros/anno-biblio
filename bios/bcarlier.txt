@@ -1,7 +1,1 @@
-Bertrand Carlier is a senior manager in the Cybersecurity & Digital Trust 
-practice at Wavestone with over 14 years of experience. He has been leading 
-major Identity & Access Management projects, working with a broad number of 
-client companies, in many industries. He has been involved in several “digital 
-transformation” initiatives directed towards employees and customers as well 
-as innovative projects, for instances IoT initiatives, to design and build 
-their security architecture.
+Bertrand Carlier is a senior manager in the Cybersecurity and Digital Trust practice at Wavestone with over 14 years of experience. He has been leading major Identity and Access Management projects, working with a broad number of client companies, in many industries. He has been involved in several “digital transformation” initiatives directed towards employees and customers as well as innovative projects, for instances IoT initiatives, to design and build their security architecture.

@@ -50,6 +50,7 @@
       <file>anbib.bbl</file>
     </requires>
     <requires type="editable">
+      <file>bibannotation-Bertocci2019.tex</file>
       <file>bibannotation-Birch2014.tex</file>
       <file>bibannotation-Cameron2005.tex</file>
       <file>bibannotation-Carlier2018.tex</file>
@@ -67,6 +68,8 @@
       <file>bibannotation-Prasad2012.tex</file>
       <file>bibannotation-Richer2017.tex</file>
       <file>bibannotation-Schwartz2018.tex</file>
+      <file>bibannotation-IAMPrimer2016.tex</file>
+      <file>bibannotation-Siriwardena2016.tex</file>
       <file>bibannotation-DTA-AUS2018.tex</file>
       <file>bibannotation-Williamson2017.tex</file>
       <file>bibannotation-Windley2005.tex</file>
@@ -103,11 +106,13 @@
       <file>anbib.bcf</file>
     </requires>
     <requires type="editable">
+      <file>bibs-no-anno/bcarlier.bib</file>
       <file>bibs-no-anno/gdobbs.bib</file>
       <file>bibs-no-anno/iglazer.bib</file>
       <file>bibs-no-anno/shaq.bib</file>
       <file>bibs-no-anno/ahindle.bib</file>
       <file>bibs-no-anno/shutchinson.bib</file>
+      <file>bibs-no-anno/r2h2.bib</file>
       <file>bibs-no-anno/akoot.bib</file>
       <file>bibs-no-anno/cscholefield.bib</file>
       <file>bibs-no-anno/ssquire.bib</file>

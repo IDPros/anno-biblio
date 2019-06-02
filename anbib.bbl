@@ -19,6 +19,35 @@
 
 \refsection{0}
   \datalist[entry]{cms/global//global/global}
+    \entry{Bertocci2019}{online}{}
+      \name{author}{1}{}{%
+        {{hash=4648eae238e1cb45d45eb9656e711982}{%
+           family={Bertocci},
+           familyi={B\bibinitperiod},
+           given={Vittorio},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{4648eae238e1cb45d45eb9656e711982}
+      \strng{fullhash}{4648eae238e1cb45d45eb9656e711982}
+      \strng{bibnamehash}{4648eae238e1cb45d45eb9656e711982}
+      \strng{authorbibnamehash}{4648eae238e1cb45d45eb9656e711982}
+      \strng{authornamehash}{4648eae238e1cb45d45eb9656e711982}
+      \strng{authorfullhash}{4648eae238e1cb45d45eb9656e711982}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{OAuth2 Implicit Grant and SPA}
+      \field{urlyear}{}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://auth0.com/blog/oauth2-implicit-grant-and-spa/
+      \endverb
+      \verb{url}
+      \verb https://auth0.com/blog/oauth2-implicit-grant-and-spa/
+      \endverb
+    \endentry
     \entry{Birch2014}{book}{}
       \name{author}{1}{}{%
         {{hash=004df110e21f2b1b0cc67f76dd9155cf}{%
@@ -545,6 +574,68 @@
       \field{year}{2018}
       \field{pages}{396 pages}
       \range{pages}{-1}
+    \endentry
+    \entry{IAMPrimer2016}{inbook}{}
+      \name{author}{1}{}{%
+        {{hash=c073b96fbb29e6a8daa754f4d6af4414}{%
+           family={Semančík},
+           familyi={S\bibinitperiod},
+           given={Radovan},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Evolveum}%
+      }
+      \strng{namehash}{c073b96fbb29e6a8daa754f4d6af4414}
+      \strng{fullhash}{c073b96fbb29e6a8daa754f4d6af4414}
+      \strng{bibnamehash}{c073b96fbb29e6a8daa754f4d6af4414}
+      \strng{authorbibnamehash}{c073b96fbb29e6a8daa754f4d6af4414}
+      \strng{authornamehash}{c073b96fbb29e6a8daa754f4d6af4414}
+      \strng{authorfullhash}{c073b96fbb29e6a8daa754f4d6af4414}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{chapter}{Understanding Identity and Access Management}
+      \field{edition}{1.1}
+      \field{title}{Practical Identity Management with midPoint}
+      \field{year}{2016}
+      \verb{urlraw}
+      \verb https://evolveum.com/midpoint/midpoint-guide-about-practical-identity-management/
+      \endverb
+      \verb{url}
+      \verb https://evolveum.com/midpoint/midpoint-guide-about-practical-identity-management/
+      \endverb
+    \endentry
+    \entry{Siriwardena2016}{online}{}
+      \name{author}{1}{}{%
+        {{hash=9ce0eaf78e13ddd2c4b1e42bf4eef728}{%
+           family={Siriwardena},
+           familyi={S\bibinitperiod},
+           given={Prabath},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{9ce0eaf78e13ddd2c4b1e42bf4eef728}
+      \strng{fullhash}{9ce0eaf78e13ddd2c4b1e42bf4eef728}
+      \strng{bibnamehash}{9ce0eaf78e13ddd2c4b1e42bf4eef728}
+      \strng{authorbibnamehash}{9ce0eaf78e13ddd2c4b1e42bf4eef728}
+      \strng{authornamehash}{9ce0eaf78e13ddd2c4b1e42bf4eef728}
+      \strng{authorfullhash}{9ce0eaf78e13ddd2c4b1e42bf4eef728}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \true{uniquework}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Securing Microservices (Part I)}
+      \field{urlyear}{}
+      \field{year}{2016}
+      \verb{urlraw}
+      \verb https://medium.facilelogin.com/securing-microservices-with-oauth-2-0-jwt-and-xacml-d03770a9a838
+      \endverb
+      \verb{url}
+      \verb https://medium.facilelogin.com/securing-microservices-with-oauth-2-0-jwt-and-xacml-d03770a9a838
+      \endverb
     \endentry
     \entry{DTA-AUS2018}{online}{}
       \list{publisher}{1}{%
