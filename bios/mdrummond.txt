@@ -1,0 +1,13 @@
+Mark is the Director of Identity & Access Management for the Empire Life
+Insurance Company in Kingston, Ontario, and a part-time undergraduate student
+at Queen's University, pursuing a B.A. in Economics. "Pursuing" in the sense of
+a sloth pursuing another branch in a tree, the Guiness Book of World Records is
+monitoring his progress closely.
+
+After 15 odd years working with LDAP directory based identity systems, he found
+out there was more to the Identity game than he realized. He is super excited
+to be catching up to the rest of the pack, and very keen on everything
+happening in the decentralized and self-sovereign identity space.
+
+He spends his in between hours riding his motorcycle, reading, and playing
+video games.
