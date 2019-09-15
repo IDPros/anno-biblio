@@ -50,6 +50,7 @@
       <file>anbib.bbl</file>
     </requires>
     <requires type="editable">
+      <file>bibannotation-Bertocci2019a.tex</file>
       <file>bibannotation-Bertocci2019.tex</file>
       <file>bibannotation-Birch2014.tex</file>
       <file>bibannotation-Cameron2005.tex</file>
@@ -107,7 +108,9 @@
     </requires>
     <requires type="editable">
       <file>bibs-no-anno/bcarlier.bib</file>
+      <file>bibs-no-anno/scecchetti.bib</file>
       <file>bibs-no-anno/gdobbs.bib</file>
+      <file>bibs-no-anno/mdrummond.bib</file>
       <file>bibs-no-anno/iglazer.bib</file>
       <file>bibs-no-anno/shaq.bib</file>
       <file>bibs-no-anno/ahindle.bib</file>
@@ -115,7 +118,6 @@
       <file>bibs-no-anno/r2h2.bib</file>
       <file>bibs-no-anno/akoot.bib</file>
       <file>bibs-no-anno/cscholefield.bib</file>
-      <file>bibs-no-anno/ssquire.bib</file>
       <file>bibs-no-anno/gwilliamson.bib</file>
     </requires>
   </external>
