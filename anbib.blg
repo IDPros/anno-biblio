@@ -1,80 +1,59 @@
-[0] Config.pm:304> INFO - This is Biber 2.14
-[0] Config.pm:307> INFO - Logfile is 'anbib.blg'
-[79] biber-darwin:322> INFO - === Tue Feb 18, 2020, 09:02:46
-[100] Biber.pm:415> INFO - Reading 'anbib.bcf'
-[230] Biber.pm:943> INFO - Found 24 citekeys in bib section 0
-[243] Biber.pm:4256> INFO - Processing section 0
-[243] Utils.pm:75> INFO - Globbing data source 'bibs-no-anno/bcarlier.bib'
-[243] Utils.pm:91> INFO - Globbed data source 'bibs-no-anno/bcarlier.bib' to bibs-no-anno/bcarlier.bib
-[244] Utils.pm:75> INFO - Globbing data source 'bibs-no-anno/scecchetti.bib'
-[244] Utils.pm:91> INFO - Globbed data source 'bibs-no-anno/scecchetti.bib' to bibs-no-anno/scecchetti.bib
-[244] Utils.pm:75> INFO - Globbing data source 'bibs-no-anno/gdobbs.bib'
-[244] Utils.pm:91> INFO - Globbed data source 'bibs-no-anno/gdobbs.bib' to bibs-no-anno/gdobbs.bib
-[244] Utils.pm:75> INFO - Globbing data source 'bibs-no-anno/mdrummond.bib'
-[244] Utils.pm:91> INFO - Globbed data source 'bibs-no-anno/mdrummond.bib' to bibs-no-anno/mdrummond.bib
-[244] Utils.pm:75> INFO - Globbing data source 'bibs-no-anno/iglazer.bib'
-[245] Utils.pm:91> INFO - Globbed data source 'bibs-no-anno/iglazer.bib' to bibs-no-anno/iglazer.bib
-[245] Utils.pm:75> INFO - Globbing data source 'bibs-no-anno/shaq.bib'
-[245] Utils.pm:91> INFO - Globbed data source 'bibs-no-anno/shaq.bib' to bibs-no-anno/shaq.bib
-[245] Utils.pm:75> INFO - Globbing data source 'bibs-no-anno/ahindle.bib'
-[245] Utils.pm:91> INFO - Globbed data source 'bibs-no-anno/ahindle.bib' to bibs-no-anno/ahindle.bib
-[245] Utils.pm:75> INFO - Globbing data source 'bibs-no-anno/shutchinson.bib'
-[245] Utils.pm:91> INFO - Globbed data source 'bibs-no-anno/shutchinson.bib' to bibs-no-anno/shutchinson.bib
-[245] Utils.pm:75> INFO - Globbing data source 'bibs-no-anno/r2h2.bib'
-[245] Utils.pm:91> INFO - Globbed data source 'bibs-no-anno/r2h2.bib' to bibs-no-anno/r2h2.bib
-[245] Utils.pm:75> INFO - Globbing data source 'bibs-no-anno/akoot.bib'
-[245] Utils.pm:91> INFO - Globbed data source 'bibs-no-anno/akoot.bib' to bibs-no-anno/akoot.bib
-[245] Utils.pm:75> INFO - Globbing data source 'bibs-no-anno/cscholefield.bib'
-[245] Utils.pm:91> INFO - Globbed data source 'bibs-no-anno/cscholefield.bib' to bibs-no-anno/cscholefield.bib
-[245] Utils.pm:75> INFO - Globbing data source 'bibs-no-anno/gwilliamson.bib'
-[245] Utils.pm:91> INFO - Globbed data source 'bibs-no-anno/gwilliamson.bib' to bibs-no-anno/gwilliamson.bib
-[256] Biber.pm:4455> INFO - Looking for bibtex format file 'bibs-no-anno/bcarlier.bib' for section 0
-[256] bibtex.pm:1653> INFO - LaTeX decoding ...
-[259] bibtex.pm:1471> INFO - Found BibTeX data source 'bibs-no-anno/bcarlier.bib'
-[282] Biber.pm:4455> INFO - Looking for bibtex format file 'bibs-no-anno/scecchetti.bib' for section 0
-[283] bibtex.pm:1653> INFO - LaTeX decoding ...
-[289] bibtex.pm:1471> INFO - Found BibTeX data source 'bibs-no-anno/scecchetti.bib'
-[324] Biber.pm:4455> INFO - Looking for bibtex format file 'bibs-no-anno/gdobbs.bib' for section 0
-[324] bibtex.pm:1653> INFO - LaTeX decoding ...
-[327] bibtex.pm:1471> INFO - Found BibTeX data source 'bibs-no-anno/gdobbs.bib'
-[336] Biber.pm:4455> INFO - Looking for bibtex format file 'bibs-no-anno/mdrummond.bib' for section 0
-[337] bibtex.pm:1653> INFO - LaTeX decoding ...
-[342] bibtex.pm:1471> INFO - Found BibTeX data source 'bibs-no-anno/mdrummond.bib'
-[347] Biber.pm:4455> INFO - Looking for bibtex format file 'bibs-no-anno/iglazer.bib' for section 0
-[348] bibtex.pm:1653> INFO - LaTeX decoding ...
-[351] bibtex.pm:1471> INFO - Found BibTeX data source 'bibs-no-anno/iglazer.bib'
-[351] Utils.pm:304> WARN - Duplicate entry key: 'Richer2017' in file 'bibs-no-anno/iglazer.bib', skipping ...
-[355] Biber.pm:4455> INFO - Looking for bibtex format file 'bibs-no-anno/shaq.bib' for section 0
-[356] bibtex.pm:1653> INFO - LaTeX decoding ...
-[358] bibtex.pm:1471> INFO - Found BibTeX data source 'bibs-no-anno/shaq.bib'
-[362] Biber.pm:4455> INFO - Looking for bibtex format file 'bibs-no-anno/ahindle.bib' for section 0
-[363] bibtex.pm:1653> INFO - LaTeX decoding ...
-[367] bibtex.pm:1471> INFO - Found BibTeX data source 'bibs-no-anno/ahindle.bib'
-[375] Biber.pm:4455> INFO - Looking for bibtex format file 'bibs-no-anno/shutchinson.bib' for section 0
-[376] bibtex.pm:1653> INFO - LaTeX decoding ...
-[385] bibtex.pm:1471> INFO - Found BibTeX data source 'bibs-no-anno/shutchinson.bib'
-[386] Utils.pm:304> WARN - Duplicate entry key: 'Richer2017' in file 'bibs-no-anno/shutchinson.bib', skipping ...
-[402] Biber.pm:4455> INFO - Looking for bibtex format file 'bibs-no-anno/r2h2.bib' for section 0
-[403] bibtex.pm:1653> INFO - LaTeX decoding ...
-[405] bibtex.pm:1471> INFO - Found BibTeX data source 'bibs-no-anno/r2h2.bib'
-[408] Biber.pm:4455> INFO - Looking for bibtex format file 'bibs-no-anno/akoot.bib' for section 0
-[409] bibtex.pm:1653> INFO - LaTeX decoding ...
-[417] bibtex.pm:1471> INFO - Found BibTeX data source 'bibs-no-anno/akoot.bib'
-[417] Utils.pm:304> WARN - Duplicate entry key: 'Cameron2005' in file 'bibs-no-anno/akoot.bib', skipping ...
-[418] Utils.pm:304> WARN - Duplicate entry key: 'Hardt2005' in file 'bibs-no-anno/akoot.bib', skipping ...
-[425] Biber.pm:4455> INFO - Looking for bibtex format file 'bibs-no-anno/cscholefield.bib' for section 0
-[425] bibtex.pm:1653> INFO - LaTeX decoding ...
-[429] bibtex.pm:1471> INFO - Found BibTeX data source 'bibs-no-anno/cscholefield.bib'
-[429] Utils.pm:304> WARN - Duplicate entry key: 'Windley2005' in file 'bibs-no-anno/cscholefield.bib', skipping ...
-[437] Biber.pm:4455> INFO - Looking for bibtex format file 'bibs-no-anno/gwilliamson.bib' for section 0
-[438] bibtex.pm:1653> INFO - LaTeX decoding ...
-[442] bibtex.pm:1471> INFO - Found BibTeX data source 'bibs-no-anno/gwilliamson.bib'
-[443] Utils.pm:304> WARN - Duplicate entry key: 'Williamson2017' in file 'bibs-no-anno/gwilliamson.bib', skipping ...
-[473] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'level = 4' with 'level = 2'
-[473] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[473] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[473] Biber.pm:4084> INFO - Sorting list 'cms/global//global/global' of type 'entry' with template 'cms' and locale 'en-US'
-[473] Biber.pm:4090> INFO - No sort tailoring available for locale 'en-US'
-[497] bbl.pm:652> INFO - Writing 'anbib.bbl' with encoding 'UTF-8'
-[507] bbl.pm:755> INFO - Output to anbib.bbl
-[508] Biber.pm:128> INFO - WARNINGS: 6
+[0] Config.pm:312> INFO - This is Biber 2.15
+[0] Config.pm:315> INFO - Logfile is 'anbib.blg'
+[78] biber-darwin:330> INFO - === Thu Sep 17, 2020, 17:01:45
+[94] Biber.pm:415> INFO - Reading 'anbib.bcf'
+[248] Biber.pm:952> INFO - Found 29 citekeys in bib section 0
+[262] Biber.pm:4334> INFO - Processing section 0
+[275] Biber.pm:4523> INFO - Looking for bibtex format file 'bibs-no-anno/dbrossard.bib' for section 0
+[276] bibtex.pm:1682> INFO - LaTeX decoding ...
+[281] bibtex.pm:1494> INFO - Found BibTeX data source 'bibs-no-anno/dbrossard.bib'
+[325] Biber.pm:4523> INFO - Looking for bibtex format file 'bibs-no-anno/bcarlier.bib' for section 0
+[326] bibtex.pm:1682> INFO - LaTeX decoding ...
+[328] bibtex.pm:1494> INFO - Found BibTeX data source 'bibs-no-anno/bcarlier.bib'
+[336] Biber.pm:4523> INFO - Looking for bibtex format file 'bibs-no-anno/scecchetti.bib' for section 0
+[338] bibtex.pm:1682> INFO - LaTeX decoding ...
+[343] bibtex.pm:1494> INFO - Found BibTeX data source 'bibs-no-anno/scecchetti.bib'
+[359] Biber.pm:4523> INFO - Looking for bibtex format file 'bibs-no-anno/gdobbs.bib' for section 0
+[359] bibtex.pm:1682> INFO - LaTeX decoding ...
+[362] bibtex.pm:1494> INFO - Found BibTeX data source 'bibs-no-anno/gdobbs.bib'
+[370] Biber.pm:4523> INFO - Looking for bibtex format file 'bibs-no-anno/mdrummond.bib' for section 0
+[371] bibtex.pm:1682> INFO - LaTeX decoding ...
+[375] bibtex.pm:1494> INFO - Found BibTeX data source 'bibs-no-anno/mdrummond.bib'
+[391] Biber.pm:4523> INFO - Looking for bibtex format file 'bibs-no-anno/iglazer.bib' for section 0
+[392] bibtex.pm:1682> INFO - LaTeX decoding ...
+[397] bibtex.pm:1494> INFO - Found BibTeX data source 'bibs-no-anno/iglazer.bib'
+[397] Utils.pm:395> WARN - Duplicate entry key: 'Richer2017' in file 'bibs-no-anno/iglazer.bib', skipping ...
+[402] Biber.pm:4523> INFO - Looking for bibtex format file 'bibs-no-anno/shaq.bib' for section 0
+[402] bibtex.pm:1682> INFO - LaTeX decoding ...
+[404] bibtex.pm:1494> INFO - Found BibTeX data source 'bibs-no-anno/shaq.bib'
+[409] Biber.pm:4523> INFO - Looking for bibtex format file 'bibs-no-anno/ahindle.bib' for section 0
+[410] bibtex.pm:1682> INFO - LaTeX decoding ...
+[413] bibtex.pm:1494> INFO - Found BibTeX data source 'bibs-no-anno/ahindle.bib'
+[422] Biber.pm:4523> INFO - Looking for bibtex format file 'bibs-no-anno/shutchinson.bib' for section 0
+[423] bibtex.pm:1682> INFO - LaTeX decoding ...
+[430] bibtex.pm:1494> INFO - Found BibTeX data source 'bibs-no-anno/shutchinson.bib'
+[431] Utils.pm:395> WARN - Duplicate entry key: 'Richer2017' in file 'bibs-no-anno/shutchinson.bib', skipping ...
+[450] Biber.pm:4523> INFO - Looking for bibtex format file 'bibs-no-anno/r2h2.bib' for section 0
+[451] bibtex.pm:1682> INFO - LaTeX decoding ...
+[453] bibtex.pm:1494> INFO - Found BibTeX data source 'bibs-no-anno/r2h2.bib'
+[458] Biber.pm:4523> INFO - Looking for bibtex format file 'bibs-no-anno/akoot.bib' for section 0
+[459] bibtex.pm:1682> INFO - LaTeX decoding ...
+[464] bibtex.pm:1494> INFO - Found BibTeX data source 'bibs-no-anno/akoot.bib'
+[465] Utils.pm:395> WARN - Duplicate entry key: 'Cameron2005' in file 'bibs-no-anno/akoot.bib', skipping ...
+[465] Utils.pm:395> WARN - Duplicate entry key: 'Hardt2005' in file 'bibs-no-anno/akoot.bib', skipping ...
+[473] Biber.pm:4523> INFO - Looking for bibtex format file 'bibs-no-anno/cscholefield.bib' for section 0
+[474] bibtex.pm:1682> INFO - LaTeX decoding ...
+[478] bibtex.pm:1494> INFO - Found BibTeX data source 'bibs-no-anno/cscholefield.bib'
+[478] Utils.pm:395> WARN - Duplicate entry key: 'Windley2005' in file 'bibs-no-anno/cscholefield.bib', skipping ...
+[489] Biber.pm:4523> INFO - Looking for bibtex format file 'bibs-no-anno/gwilliamson.bib' for section 0
+[491] bibtex.pm:1682> INFO - LaTeX decoding ...
+[494] bibtex.pm:1494> INFO - Found BibTeX data source 'bibs-no-anno/gwilliamson.bib'
+[495] Utils.pm:395> WARN - Duplicate entry key: 'Williamson2017' in file 'bibs-no-anno/gwilliamson.bib', skipping ...
+[536] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'level = 4' with 'level = 2'
+[536] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[536] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[536] Biber.pm:4162> INFO - Sorting list 'cms/global//global/global' of type 'entry' with template 'cms' and locale 'en-US'
+[536] Biber.pm:4168> INFO - No sort tailoring available for locale 'en-US'
+[561] bbl.pm:651> INFO - Writing 'anbib.bbl' with encoding 'UTF-8'
+[572] bbl.pm:754> INFO - Output to anbib.bbl
+[572] Biber.pm:128> INFO - WARNINGS: 6

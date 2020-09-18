@@ -1,0 +1,9 @@
+I am the Senior Director of Product Management for Identity at Salesforce. I look after the product strategy and identity standards work. I also gather and analyze customer requirements based on which we further develop Salesforce's Identity capabilities.
+
+Previously, I was the VP Customer Relations (Sales Engineering, Professional Services, and Developer Relations) at Axiomatics, the leader in policy-based access control and fine-grained authorization. During that time I launched Axiomatics' Customer Experience Conference and oversaw the relationship to standards committees.
+
+My other work experience includes five years as a senior security researcher at British Telecom where my work focused on SOA and API Security involving standards such as SAML, XACML, WS-Federation, and WS-Trust. While at BT, I wrote several papers and co-authored books on SOA security.
+
+Over the last 15 years in identity, I have contributed to the XACML standard (version 3), drove the developer initiatives around XACML, and co-authored several of its profiles (ALFA, export control...). I was a founding member of OASIS' Trust Elevation Technical Committee. I'm a frequent speaker at international conferences such as Javazone, European Identity Conference, Identiverse, Gartner IAM, and RSA. I am a founding member of IDPro, the professional organization for digital identity management.
+
+I graduated from the department of Computer Science at the National Institute of Applied Sciences in France. I studied distributed computing at the University of Porto's Faculty of Engineering.

@@ -53,21 +53,26 @@
       <file>bibannotation-Bertocci2019a.tex</file>
       <file>bibannotation-Bertocci2019.tex</file>
       <file>bibannotation-Birch2014.tex</file>
+      <file>bibannotation-Bouma2020a.tex</file>
       <file>bibannotation-Cameron2005.tex</file>
       <file>bibannotation-Carlier2018.tex</file>
       <file>bibannotation-Clippinger2007.tex</file>
+      <file>bibannotation-Doctorow2019.tex</file>
       <file>bibannotation-Gilman2017.tex</file>
       <file>bibannotation-Hardjono2016.tex</file>
       <file>bibannotation-Hardt2005.tex</file>
       <file>bibannotation-Harper2006.tex</file>
       <file>bibannotation-Hazelton2015.tex</file>
       <file>bibannotation-Hoffman1977.tex</file>
+      <file>bibannotation-Steadman2019a.tex</file>
       <file>bibannotation-Moore1991.tex</file>
       <file>bibannotation-NSTIC2011.tex</file>
       <file>bibannotation-Nayyar2018.tex</file>
       <file>bibannotation-NIST-USA2017.tex</file>
+      <file>bibannotation-ONeil2016.tex</file>
       <file>bibannotation-Prasad2012.tex</file>
       <file>bibannotation-Richer2017.tex</file>
+      <file>bibannotation-Schneier2016.tex</file>
       <file>bibannotation-Schwartz2018.tex</file>
       <file>bibannotation-IAMPrimer2016.tex</file>
       <file>bibannotation-Siriwardena2016.tex</file>
@@ -79,6 +84,7 @@
       <file>blx-dm.def</file>
       <file>blx-unicode.def</file>
       <file>blx-compat.def</file>
+      <file>blx-case-expl3.def</file>
       <file>biblatex.def</file>
       <file>chicago-notes.bbx</file>
       <file>chicago-notes.cbx</file>
@@ -107,6 +113,7 @@
       <file>anbib.bcf</file>
     </requires>
     <requires type="editable">
+      <file>bibs-no-anno/dbrossard.bib</file>
       <file>bibs-no-anno/bcarlier.bib</file>
       <file>bibs-no-anno/scecchetti.bib</file>
       <file>bibs-no-anno/gdobbs.bib</file>
