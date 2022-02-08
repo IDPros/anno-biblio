@@ -35,7 +35,7 @@
       \strng{authorfullhash}{4648eae238e1cb45d45eb9656e711982}
       \field{extraname}{1}
       \field{sortinit}{B}
-      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Learn Identity}}
@@ -67,7 +67,7 @@
       \strng{authorfullhash}{4648eae238e1cb45d45eb9656e711982}
       \field{extraname}{2}
       \field{sortinit}{B}
-      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{OAuth2 Implicit Grant and SPA}
@@ -97,7 +97,7 @@
       \strng{authornamehash}{004df110e21f2b1b0cc67f76dd9155cf}
       \strng{authorfullhash}{004df110e21f2b1b0cc67f76dd9155cf}
       \field{sortinit}{B}
-      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{This book argues that personal identity is changing profoundly and that money is changing equally profoundly. Cash will be replaced by a proliferation of new digital currencies.}
@@ -123,7 +123,7 @@
       \strng{authornamehash}{32e774e94b6b9dcedb8e1799c0a72cbe}
       \strng{authorfullhash}{32e774e94b6b9dcedb8e1799c0a72cbe}
       \field{sortinit}{B}
-      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Definitely Identity}}
@@ -157,7 +157,7 @@
       \strng{authornamehash}{832c9fa0d04922c69024d6eceb9e80a4}
       \strng{authorfullhash}{832c9fa0d04922c69024d6eceb9e80a4}
       \field{sortinit}{C}
-      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{The Laws of Identity}}
@@ -186,7 +186,7 @@
       \strng{authornamehash}{4407e3487b0d9709d48ca817111e10ae}
       \strng{authorfullhash}{4407e3487b0d9709d48ca817111e10ae}
       \field{sortinit}{C}
-      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Wavestone Risk Insight}
@@ -225,7 +225,7 @@
       \strng{authornamehash}{0aa59d9cce80c1b99ce1d8248f8ce6ef}
       \strng{authorfullhash}{0aa59d9cce80c1b99ce1d8248f8ce6ef}
       \field{sortinit}{C}
-      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{isbn}{9781586483678}
@@ -253,7 +253,7 @@
       \strng{authornamehash}{f07392ff66b0c83a1520683a348eabe1}
       \strng{authorfullhash}{f07392ff66b0c83a1520683a348eabe1}
       \field{sortinit}{D}
-      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{shorttitle}{Radicalized}
@@ -285,7 +285,7 @@
       \strng{authornamehash}{9c51401dde595f227df7db3e365dacf5}
       \strng{authorfullhash}{9c51401dde595f227df7db3e365dacf5}
       \field{sortinit}{G}
-      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{isbn}{9781491962190}
@@ -323,7 +323,7 @@
       \strng{editornamehash}{70a78b27b50bbc13abddabf59e5293e4}
       \strng{editorfullhash}{70a78b27b50bbc13abddabf59e5293e4}
       \field{sortinit}{H}
-      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
       \field{labelnamesource}{editor}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{As the economy and society move from a world where interactions were physical and based on paper documents, toward a world that is primarily governed by digital data and digital transactions, our existing methods of managing identity and data security are proving inadequate. Large-scale fraud, identity theft and data breaches are becoming common, and a large fraction of the population have only the most limited digital credentials. Even so, our digital infrastructure is recognized as a strategic asset which must be resilient to threat. If we can create an Internet of Trusted Data that provides safe, secure access for everyone, then huge societal benefits can be unlocked, including better health, greater financial inclusion, and a population that is more engaged with and better supported by its government. Some of the world's leading data scientists, led by MIT Professor Alex Pentland, describe a roadmap and platforms to implement this new paradigm.}
@@ -349,7 +349,7 @@
       \strng{authornamehash}{645c23d98c8c0ad0899cb4be651e6a02}
       \strng{authorfullhash}{645c23d98c8c0ad0899cb4be651e6a02}
       \field{sortinit}{H}
-      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Identity 2.0 Keynote}}
@@ -383,7 +383,7 @@
       \strng{authornamehash}{a3f4694e15446725247d463b9140718e}
       \strng{authorfullhash}{a3f4694e15446725247d463b9140718e}
       \field{sortinit}{H}
-      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{The advance of identification technology biometrics, identity cards, surveillance, databases, dossiers threatens privacy, civil liberties, and related human interests. Since the terrorist attacks of September 11, 2001, demands for identification in the name of security have increased. In this insightful book, Jim Harper takes readers inside identification a process everyone uses every day but few people have ever thought about. Using stories and examples from movies, television, and classic literature, Harper dissects identification processes and technologies, showing how identification works when it works and how it fails when it fails. Harper exposes the myth that identification can protect against future terrorist attacks. He shows that a U.S. national identification card, created by Congress in the REAL ID Act, is a poor way to secure the country or its citizens. A national ID represents a transfer of power from individuals to institutions, and that transfer threatens liberty, enables identity fraud, and subjects people to unwanted surveillance. Instead of a uniform, government-controlled identification system, Harper calls for a competitive, responsive identification and credentialing industry that meets the mix of consumer demands for privacy, security, anonymity, and accountability. Identification should be a risk-reducing strategy in a social system, Harper concludes, not a rivet to pin humans to governmental or economic machinery.}
@@ -414,7 +414,7 @@
       \strng{authornamehash}{c80647e6fd2edcf5bdaa05c54808c086}
       \strng{authorfullhash}{c80647e6fd2edcf5bdaa05c54808c086}
       \field{sortinit}{H}
-      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{The CIC Cloud Services Cookbook}}
@@ -444,7 +444,7 @@
       \strng{authornamehash}{b2e0626c38d35798e07266332cce280e}
       \strng{authorfullhash}{b2e0626c38d35798e07266332cce280e}
       \field{sortinit}{H}
-      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Modern Methods for Computer Security and Privacy}}
@@ -472,7 +472,7 @@
       \strng{authornamehash}{244b033dbe7a3c0318ad39e8a9f158e6}
       \strng{authorfullhash}{244b033dbe7a3c0318ad39e8a9f158e6}
       \field{sortinit}{M}
-      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Identity at the Center}}
@@ -506,7 +506,7 @@
       \strng{authornamehash}{b5328789d301a2903c3188cdfaf83e3f}
       \strng{authorfullhash}{b5328789d301a2903c3188cdfaf83e3f}
       \field{sortinit}{M}
-      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{edition}{3rd}
@@ -522,7 +522,7 @@
         {Technology, U.S. Department of Commerce}%
       }
       \field{sortinit}{N}
-      \field{sortinithash}{98cf339a479c0454fe09153a08675a15}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
       \field{labeltitlesource}{title}
       \field{abstract}{Digital infrastructure is increasingly the backbone of prosperous economies, vigorous research communities, strong militaries, transparent governments, and free societies. As never before, information technology is fostering transnational dialogue and facilitating the global flow of goods and services. These social and trade links have become indispensable to our daily lives. Critical life-sustaining infrastructures that deliver electricity and water, control air traffic, and support our financial system all depend on networked information systems. Governments are now able to streamline the provision of essential services through eGovernment initiatives. Social and political movements rely on the Internet to enable new and more expansive forms of organization and action. The reach of networked technol- ogy is pervasive and global. For all nations, the underlying digital infrastructure is or will soon become a national asset.}
       \field{title}{{National Strategy for Trusted Identities in Cyberspace}}
@@ -552,7 +552,7 @@
       \strng{authornamehash}{380d05a16ea84c579160cb78dc3a5cc7}
       \strng{authorfullhash}{380d05a16ea84c579160cb78dc3a5cc7}
       \field{sortinit}{N}
-      \field{sortinithash}{98cf339a479c0454fe09153a08675a15}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{edition}{2nd}
@@ -563,13 +563,34 @@
       \field{pages}{424 pages}
       \range{pages}{-1}
     \endentry
+    \entry{NIST800207-2020}{online}{}
+      \list{publisher}{2}{%
+        {National Institute of Standards}%
+        {Technology, U.S. Department of Commerce}%
+      }
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Zero trust (ZT) is the term for an evolving set of cybersecurity paradigms that move defenses from static, network-based perimeters to focus on users, assets, and resources. A zero trust architecture (ZTA) uses zero trust principles to plan industrial and enterprise infrastructure and workflows. Zero trust assumes there is no implicit trust granted to assets or user accounts based solely on their physical or network location (i.e., local area networks versus the internet) or based on asset ownership (enterprise or personally owned). Authentication and authorization (both subject and device) are discrete functions performed before a session to an enterprise resource is established. Zero trust is a response to enterprise network trends that include remote users, bring your own device (BYOD), and cloud-based assets that are not located within an enterprise-owned network boundary. Zero trust focuses on protecting resources (assets, services, workflows, network accounts, etc.), not network segments, as the network location is no longer seen as the prime component to the security posture of the resource. This document contains an abstract definition of zero trust architecture (ZTA) and gives general deployment models and use cases where zero trust could improve an enterprise’s overall information technology security posture.}
+      \field{title}{{NIST Special Publication 800-207, Zero Trust Architecture}}
+      \field{year}{2020}
+      \verb{doi}
+      \verb https://doi.org/10.6028/NIST.SP.800-207
+      \endverb
+      \verb{urlraw}
+      \verb https://csrc.nist.gov/publications/detail/sp/800-207/final
+      \endverb
+      \verb{url}
+      \verb https://csrc.nist.gov/publications/detail/sp/800-207/final
+      \endverb
+    \endentry
     \entry{NIST-USA2017}{online}{}
       \list{publisher}{2}{%
         {National Institute of Standards}%
         {Technology, U.S. Department of Commerce}%
       }
       \field{sortinit}{N}
-      \field{sortinithash}{98cf339a479c0454fe09153a08675a15}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
       \field{labeltitlesource}{title}
       \field{abstract}{This document and its companion documents, SP 800-63, SP 800-63A, and SP 800-63B, provide technical and procedural guidelines to agencies for the implementation of federated identitysystems and for assertions used by federations. This publication supersedes corresponding sections of SP 800-63-2. These guidelines provide technical requirements for federal agencies implementing digital identity services and are not intended to constrain the development or use of standards outside of this purpose. This guideline focuses on the use of federated identity and the use of assertions to implement identity federations. Federation allows a given credential service provider to provide authentication and (optionally) subscriber attributes to a number of separately-administered relying parties. Similarly, relying parties may use more than one credential service provider.}
       \field{title}{{NIST Special Publication 800-63C, Digital Identity Guidelines}}
@@ -602,7 +623,7 @@
       \strng{authornamehash}{2d9e8c54407ca5f4ae5ce79112bcffdf}
       \strng{authorfullhash}{2d9e8c54407ca5f4ae5ce79112bcffdf}
       \field{sortinit}{O}
-      \field{sortinithash}{ff8d4eeb5101e3cf3809959b3592d942}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{shorttitle}{Weapons of Math Destruction}
@@ -634,7 +655,7 @@
       \strng{authornamehash}{dd04ca7e879edbf776b7c5534e9bd57e}
       \strng{authorfullhash}{dd04ca7e879edbf776b7c5534e9bd57e}
       \field{sortinit}{P}
-      \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Identity Management on a Shoestring}}
@@ -669,7 +690,7 @@
       \strng{authornamehash}{a1351bf9ba32c00c42b4e05885d53a23}
       \strng{authorfullhash}{a1351bf9ba32c00c42b4e05885d53a23}
       \field{sortinit}{R}
-      \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{isbn}{9781617293276}
@@ -687,8 +708,9 @@
            given={Bruce},
            giveni={B\bibinitperiod}}}%
       }
-      \list{publisher}{1}{%
-        {W.W. Norton & Company}%
+      \list{publisher}{2}{%
+        {W.W. Norton}%
+        {Company}%
       }
       \strng{namehash}{d8df23ab843a37bf97ea40354db74d15}
       \strng{fullhash}{d8df23ab843a37bf97ea40354db74d15}
@@ -697,7 +719,7 @@
       \strng{authornamehash}{d8df23ab843a37bf97ea40354db74d15}
       \strng{authorfullhash}{d8df23ab843a37bf97ea40354db74d15}
       \field{sortinit}{S}
-      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{isbn}{9780393352177}
@@ -730,7 +752,7 @@
       \strng{authornamehash}{49ee98249ba3c16695906e26affb040f}
       \strng{authorfullhash}{49ee98249ba3c16695906e26affb040f}
       \field{sortinit}{S}
-      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{isbn}{9781484226001}
@@ -758,7 +780,7 @@
       \strng{authornamehash}{c073b96fbb29e6a8daa754f4d6af4414}
       \strng{authorfullhash}{c073b96fbb29e6a8daa754f4d6af4414}
       \field{sortinit}{S}
-      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{chapter}{Understanding Identity and Access Management}
@@ -787,7 +809,7 @@
       \strng{authornamehash}{9ce0eaf78e13ddd2c4b1e42bf4eef728}
       \strng{authorfullhash}{9ce0eaf78e13ddd2c4b1e42bf4eef728}
       \field{sortinit}{S}
-      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Securing Microservices (Part I)}
@@ -804,7 +826,7 @@
         {Digital Transformation Agency, Australian Government}%
       }
       \field{sortinit}{T}
-      \field{sortinithash}{51f9faf24c60c62ca764a77f78cf5666}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
       \field{labeltitlesource}{title}
       \field{title}{{Trusted Digital Identity Framework}}
       \field{year}{2018}
@@ -833,7 +855,7 @@
       \strng{authornamehash}{c312985d615e90fe719901f0573ad1d8}
       \strng{authorfullhash}{c312985d615e90fe719901f0573ad1d8}
       \field{sortinit}{W}
-      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{For business managers and CIOs, managing identity data of employees, contractors, business partners, and customers has become an important core capability. This practical guide discusses the impacts of identity management on organizations from a businessperson’s perspective. This book will help managers and CIOs understand: • Automating identity provisioning into your access control systems • How to evaluate the maturity of your identity management environment • The difference between authentication and authorization • Why federated authentication is so important and how to get it right • How roles and attributes are used to determine access control • The level of digital transformation that’s coming in the management of consumer identities. • What we need to plan for in operational technology and the Internet of Things.}
@@ -862,7 +884,7 @@
       \strng{authornamehash}{e936f0e994814f8bdd3fb56c0239c5cc}
       \strng{authorfullhash}{e936f0e994814f8bdd3fb56c0239c5cc}
       \field{sortinit}{W}
-      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{isbn}{9780596008789}

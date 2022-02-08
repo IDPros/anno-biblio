@@ -68,6 +68,7 @@
       <file>bibannotation-Moore1991.tex</file>
       <file>bibannotation-NSTIC2011.tex</file>
       <file>bibannotation-Nayyar2018.tex</file>
+      <file>bibannotation-NIST800207-2020.tex</file>
       <file>bibannotation-NIST-USA2017.tex</file>
       <file>bibannotation-ONeil2016.tex</file>
       <file>bibannotation-Prasad2012.tex</file>
@@ -84,7 +85,6 @@
       <file>blx-dm.def</file>
       <file>blx-unicode.def</file>
       <file>blx-compat.def</file>
-      <file>blx-case-expl3.def</file>
       <file>biblatex.def</file>
       <file>chicago-notes.bbx</file>
       <file>chicago-notes.cbx</file>
@@ -121,8 +121,8 @@
       <file>bibs-no-anno/iglazer.bib</file>
       <file>bibs-no-anno/shaq.bib</file>
       <file>bibs-no-anno/ahindle.bib</file>
-      <file>bibs-no-anno/shutchinson.bib</file>
       <file>bibs-no-anno/r2h2.bib</file>
+      <file>bibs-no-anno/shutchinson.bib</file>
       <file>bibs-no-anno/akoot.bib</file>
       <file>bibs-no-anno/cscholefield.bib</file>
       <file>bibs-no-anno/gwilliamson.bib</file>
